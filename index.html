@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<title>Aaradhya AI Doctor</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Aaradhya AI Health Assistant</h1>
+
+<label>Patient Name</label> <input id="name">
+
+<label>Age</label> <input id="age" type="number">
+
+<h3>Describe Symptoms</h3>
+
+<textarea id="symptomText"
+placeholder="Example: I have fever, cough and headache"></textarea>
+
+<button onclick="interpretSymptoms()">Detect Symptoms</button>
+
+<h3>Detected Symptoms</h3>
+
+<div id="detected"></div>
+
+<button onclick="diagnose()">Generate Diagnosis</button>
+
+<button onclick="downloadPDF()">Download Prescription</button>
+
+<button onclick="sendWhatsApp()">Send WhatsApp</button>
+
+<div id="result"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
