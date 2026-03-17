@@ -1,0 +1,6016 @@
+[
+  {
+    "name": "Bronchitis_1",
+    "symptoms": [
+      "fever_194",
+      "headache_369",
+      "chest pain_427",
+      "ear pain_115",
+      "burning urination_802"
+    ],
+    "medicines": [
+      "Cetirizine_2752",
+      "Levocetirizine_4765",
+      "Amoxicillin_1535"
+    ]
+  },
+  {
+    "name": "Bronchitis_2",
+    "symptoms": [
+      "abdominal pain_828",
+      "runny nose_672",
+      "chills_482",
+      "chest pain_94",
+      "body pain_720",
+      "back pain_1226"
+    ],
+    "medicines": [
+      "Doxycycline_5663",
+      "Cefixime_5070",
+      "Doxycycline_5780"
+    ]
+  },
+  {
+    "name": "Gastritis_3",
+    "symptoms": [
+      "loss of appetite_728",
+      "cough_973",
+      "sneezing_1458",
+      "watery eyes_1388",
+      "nausea_1175",
+      "wet cough_526"
+    ],
+    "medicines": [
+      "Omeprazole_100",
+      "Amoxicillin_3249",
+      "Amlodipine_4322"
+    ]
+  },
+  {
+    "name": "Sinusitis_4",
+    "symptoms": [
+      "vomiting_365",
+      "back pain_1014",
+      "body pain_1366",
+      "chills_670",
+      "watery eyes_896"
+    ],
+    "medicines": [
+      "Atorvastatin_3972",
+      "Azithromycin_825",
+      "Pantoprazole_313"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_5",
+    "symptoms": [
+      "high fever_12",
+      "muscle pain_819",
+      "ear pain_661",
+      "migraine_1338",
+      "high fever_46"
+    ],
+    "medicines": [
+      "Pantoprazole_5390",
+      "Amoxicillin_2954",
+      "Azithromycin_952"
+    ]
+  },
+  {
+    "name": "Food Poisoning_6",
+    "symptoms": [
+      "loss of appetite_1305",
+      "sneezing_55",
+      "low fever_1080"
+    ],
+    "medicines": [
+      "Diclofenac_5656",
+      "Pantoprazole_89",
+      "Ibuprofen_5299"
+    ]
+  },
+  {
+    "name": "Influenza_7",
+    "symptoms": [
+      "diarrhea_1286",
+      "fatigue_1061",
+      "nausea_1240",
+      "abdominal pain_876",
+      "fever_965",
+      "fever_1228"
+    ],
+    "medicines": [
+      "Levocetirizine_2650",
+      "Amoxicillin_3801",
+      "Azithromycin_2262"
+    ]
+  },
+  {
+    "name": "Viral Fever_8",
+    "symptoms": [
+      "sore throat_1325",
+      "rash_664",
+      "joint pain_1331",
+      "rash_62",
+      "runny nose_1125",
+      "itching_772"
+    ],
+    "medicines": [
+      "Amoxicillin_5177",
+      "Metformin_2837",
+      "Losartan_669"
+    ]
+  },
+  {
+    "name": "Arthritis_9",
+    "symptoms": [
+      "dizziness_736",
+      "rash_1199",
+      "headache_1349",
+      "high fever_183",
+      "dizziness_1231",
+      "itching_1026"
+    ],
+    "medicines": [
+      "Amlodipine_1867",
+      "Cetirizine_4960",
+      "Ondansetron_3742"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_10",
+    "symptoms": [
+      "low fever_1313",
+      "migraine_227",
+      "joint pain_872",
+      "back pain_16",
+      "back pain_915",
+      "vomiting_1400",
+      "sore throat_287"
+    ],
+    "medicines": [
+      "Omeprazole_1252",
+      "Domperidone_107",
+      "Pantoprazole_5556"
+    ]
+  },
+  {
+    "name": "Arthritis_11",
+    "symptoms": [
+      "watery eyes_469",
+      "shortness of breath_353",
+      "vomiting_153",
+      "cough_793",
+      "high fever_1141",
+      "cough_18",
+      "low fever_1183"
+    ],
+    "medicines": [
+      "Ondansetron_3433",
+      "Salbutamol_4575",
+      "Amlodipine_5669"
+    ]
+  },
+  {
+    "name": "Bronchitis_12",
+    "symptoms": [
+      "watery eyes_1353",
+      "dry cough_1376",
+      "rash_960",
+      "frequent urination_722",
+      "sneezing_97"
+    ],
+    "medicines": [
+      "Cetirizine_1077",
+      "Levocetirizine_1102",
+      "Metformin_5011"
+    ]
+  },
+  {
+    "name": "Viral Fever_13",
+    "symptoms": [
+      "back pain_406",
+      "body pain_1038",
+      "ear pain_33",
+      "vomiting_857",
+      "back pain_17",
+      "runny nose_1"
+    ],
+    "medicines": [
+      "Domperidone_4644",
+      "Levocetirizine_5032",
+      "Salbutamol_5571"
+    ]
+  },
+  {
+    "name": "Malaria_14",
+    "symptoms": [
+      "low fever_9",
+      "low fever_1382",
+      "vomiting_342"
+    ],
+    "medicines": [
+      "Nitrofurantoin_5021",
+      "Omeprazole_1185",
+      "Paracetamol_1903"
+    ]
+  },
+  {
+    "name": "Asthma_15",
+    "symptoms": [
+      "fever_823",
+      "runny nose_104",
+      "muscle pain_534",
+      "abdominal pain_559"
+    ],
+    "medicines": [
+      "Salbutamol_5571",
+      "Levocetirizine_5273",
+      "Losartan_5702"
+    ]
+  },
+  {
+    "name": "Pneumonia_16",
+    "symptoms": [
+      "itching_228",
+      "chills_615",
+      "high fever_1135",
+      "dizziness_328",
+      "joint pain_349"
+    ],
+    "medicines": [
+      "Metformin_5820",
+      "Levocetirizine_2826",
+      "Amoxicillin_3026"
+    ]
+  },
+  {
+    "name": "Hypertension_17",
+    "symptoms": [
+      "vomiting_1477",
+      "fatigue_1052",
+      "dry cough_967",
+      "shortness of breath_303"
+    ],
+    "medicines": [
+      "Azithromycin_4024",
+      "Azithromycin_1304",
+      "Losartan_332"
+    ]
+  },
+  {
+    "name": "Bronchitis_18",
+    "symptoms": [
+      "frequent urination_563",
+      "high fever_988",
+      "wet cough_979",
+      "nausea_1090",
+      "abdominal pain_870",
+      "rash_519"
+    ],
+    "medicines": [
+      "Omeprazole_1913",
+      "Ibuprofen_3831",
+      "Salbutamol_2195"
+    ]
+  },
+  {
+    "name": "Viral Fever_19",
+    "symptoms": [
+      "cough_173",
+      "diarrhea_528",
+      "headache_616"
+    ],
+    "medicines": [
+      "Doxycycline_3436",
+      "Amoxicillin_5452",
+      "Salbutamol_2617"
+    ]
+  },
+  {
+    "name": "Gastritis_20",
+    "symptoms": [
+      "high fever_311",
+      "watery eyes_1467",
+      "joint pain_937",
+      "watery eyes_13"
+    ],
+    "medicines": [
+      "Amlodipine_1790",
+      "Salbutamol_2159",
+      "Cetirizine_4249"
+    ]
+  },
+  {
+    "name": "Sinusitis_21",
+    "symptoms": [
+      "joint pain_154",
+      "watery eyes_13",
+      "joint pain_1091",
+      "joint pain_1163",
+      "back pain_859",
+      "headache_147"
+    ],
+    "medicines": [
+      "Pantoprazole_5587",
+      "Cetirizine_3050",
+      "Cetirizine_3321"
+    ]
+  },
+  {
+    "name": "Dermatitis_22",
+    "symptoms": [
+      "migraine_170",
+      "sore throat_843",
+      "chest pain_1118",
+      "itching_1224"
+    ],
+    "medicines": [
+      "Ondansetron_1412",
+      "Amlodipine_4918",
+      "Amoxicillin_1926"
+    ]
+  },
+  {
+    "name": "Tuberculosis_23",
+    "symptoms": [
+      "high fever_1141",
+      "wet cough_1496",
+      "headache_1054",
+      "rash_1328",
+      "sneezing_1237",
+      "frequent urination_24",
+      "muscle pain_133"
+    ],
+    "medicines": [
+      "Omeprazole_677",
+      "Ibuprofen_1259",
+      "Pantoprazole_4033"
+    ]
+  },
+  {
+    "name": "Bronchitis_24",
+    "symptoms": [
+      "body pain_1092",
+      "fever_1033",
+      "wet cough_1323",
+      "itching_1283"
+    ],
+    "medicines": [
+      "Metformin_2366",
+      "Nitrofurantoin_335",
+      "Salbutamol_1257"
+    ]
+  },
+  {
+    "name": "Viral Fever_25",
+    "symptoms": [
+      "fatigue_307",
+      "loss of appetite_940",
+      "joint pain_154"
+    ],
+    "medicines": [
+      "Paracetamol_3478",
+      "Ondansetron_1412",
+      "Metformin_5137"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_26",
+    "symptoms": [
+      "abdominal pain_761",
+      "rash_664",
+      "headache_1442",
+      "runny nose_903",
+      "high fever_41"
+    ],
+    "medicines": [
+      "Levocetirizine_5062",
+      "Azithromycin_4877",
+      "Nitrofurantoin_5261"
+    ]
+  },
+  {
+    "name": "Tuberculosis_27",
+    "symptoms": [
+      "high fever_168",
+      "fatigue_1000",
+      "body pain_574",
+      "nausea_1175",
+      "vomiting_857",
+      "fatigue_1134",
+      "headache_403"
+    ],
+    "medicines": [
+      "Paracetamol_2678",
+      "Atorvastatin_3018",
+      "Ondansetron_3479"
+    ]
+  },
+  {
+    "name": "Typhoid_28",
+    "symptoms": [
+      "nausea_15",
+      "headache_1054",
+      "rash_189",
+      "migraine_170",
+      "sore throat_271",
+      "sore throat_869"
+    ],
+    "medicines": [
+      "Amlodipine_1404",
+      "Levocetirizine_5716",
+      "Salbutamol_2332"
+    ]
+  },
+  {
+    "name": "Gastritis_29",
+    "symptoms": [
+      "chest pain_1062",
+      "runny nose_104",
+      "cough_516",
+      "dry cough_698",
+      "dizziness_963",
+      "frequent urination_479",
+      "watery eyes_622"
+    ],
+    "medicines": [
+      "Amlodipine_186",
+      "Levocetirizine_1444",
+      "Domperidone_406"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_30",
+    "symptoms": [
+      "sore throat_1311",
+      "shortness of breath_2",
+      "wet cough_643",
+      "wet cough_448",
+      "joint pain_1130",
+      "chest pain_639",
+      "cough_1144"
+    ],
+    "medicines": [
+      "Metformin_5368",
+      "Ondansetron_2105",
+      "Cetirizine_863"
+    ]
+  },
+  {
+    "name": "Arthritis_31",
+    "symptoms": [
+      "sore throat_397",
+      "cough_233",
+      "chills_1424",
+      "muscle pain_1280",
+      "fatigue_680",
+      "nausea_1271"
+    ],
+    "medicines": [
+      "Doxycycline_5189",
+      "Paracetamol_4547",
+      "Ibuprofen_655"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_32",
+    "symptoms": [
+      "runny nose_690",
+      "cough_1119",
+      "joint pain_933",
+      "muscle pain_335",
+      "wet cough_1496",
+      "chest pain_1072"
+    ],
+    "medicines": [
+      "Ibuprofen_4136",
+      "Diclofenac_5693",
+      "Nitrofurantoin_5019"
+    ]
+  },
+  {
+    "name": "Malaria_33",
+    "symptoms": [
+      "abdominal pain_240",
+      "back pain_602",
+      "muscle pain_112"
+    ],
+    "medicines": [
+      "Cetirizine_2182",
+      "Diclofenac_3415",
+      "Cetirizine_603"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_34",
+    "symptoms": [
+      "dry cough_1376",
+      "fatigue_1334",
+      "diarrhea_1058"
+    ],
+    "medicines": [
+      "Metformin_5575",
+      "Domperidone_5664",
+      "Azithromycin_3797"
+    ]
+  },
+  {
+    "name": "Malaria_35",
+    "symptoms": [
+      "chills_812",
+      "high fever_1036",
+      "itching_932",
+      "frequent urination_552",
+      "shortness of breath_1481"
+    ],
+    "medicines": [
+      "Azithromycin_3987",
+      "Pantoprazole_3560",
+      "Salbutamol_1257"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_36",
+    "symptoms": [
+      "low fever_1123",
+      "shortness of breath_860",
+      "runny nose_903",
+      "abdominal pain_1292"
+    ],
+    "medicines": [
+      "Omeprazole_3529",
+      "Salbutamol_4763",
+      "Cetirizine_2160"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_37",
+    "symptoms": [
+      "sore throat_1108",
+      "dry cough_312",
+      "rash_502",
+      "sneezing_351",
+      "dry cough_990"
+    ],
+    "medicines": [
+      "Nitrofurantoin_2970",
+      "Losartan_2422",
+      "Ondansetron_1023"
+    ]
+  },
+  {
+    "name": "Influenza_38",
+    "symptoms": [
+      "body pain_468",
+      "high fever_381",
+      "low fever_676",
+      "dry cough_704",
+      "burning urination_354",
+      "sneezing_188",
+      "headache_45"
+    ],
+    "medicines": [
+      "Amoxicillin_2762",
+      "Atorvastatin_3203",
+      "Atorvastatin_2713"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_39",
+    "symptoms": [
+      "fatigue_971",
+      "itching_1201",
+      "fever_1128",
+      "chest pain_507",
+      "chills_1223",
+      "migraine_1270"
+    ],
+    "medicines": [
+      "Omeprazole_3825",
+      "Pantoprazole_2027",
+      "Cetirizine_5206"
+    ]
+  },
+  {
+    "name": "Malaria_40",
+    "symptoms": [
+      "chest pain_951",
+      "frequent urination_1213",
+      "chest pain_1468",
+      "runny nose_1421",
+      "dry cough_1187",
+      "low fever_578",
+      "sneezing_146"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4083",
+      "Montelukast_3724",
+      "Diclofenac_5555"
+    ]
+  },
+  {
+    "name": "Pneumonia_41",
+    "symptoms": [
+      "fatigue_1263",
+      "loss of appetite_1082",
+      "burning urination_924",
+      "vomiting_285",
+      "ear pain_1378",
+      "abdominal pain_302",
+      "fatigue_484"
+    ],
+    "medicines": [
+      "Cetirizine_4466",
+      "Pantoprazole_5150",
+      "Atorvastatin_5844"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_42",
+    "symptoms": [
+      "joint pain_617",
+      "low fever_1112",
+      "sneezing_370",
+      "burning urination_864",
+      "body pain_1326",
+      "runny nose_861"
+    ],
+    "medicines": [
+      "Diclofenac_5389",
+      "Metformin_3691",
+      "Ondansetron_3430"
+    ]
+  },
+  {
+    "name": "Food Poisoning_43",
+    "symptoms": [
+      "watery eyes_270",
+      "fatigue_1061",
+      "vomiting_1153",
+      "shortness of breath_660",
+      "fatigue_1089"
+    ],
+    "medicines": [
+      "Paracetamol_3541",
+      "Paracetamol_5072",
+      "Amlodipine_2042"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_44",
+    "symptoms": [
+      "low fever_1284",
+      "loss of appetite_1305",
+      "muscle pain_1433"
+    ],
+    "medicines": [
+      "Omeprazole_873",
+      "Paracetamol_1733",
+      "Nitrofurantoin_4060"
+    ]
+  },
+  {
+    "name": "Migraine_45",
+    "symptoms": [
+      "body pain_468",
+      "abdominal pain_1197",
+      "chills_697",
+      "diarrhea_868",
+      "burning urination_955",
+      "chest pain_506",
+      "chest pain_1086"
+    ],
+    "medicines": [
+      "Pantoprazole_5970",
+      "Ibuprofen_241",
+      "Metformin_5838"
+    ]
+  },
+  {
+    "name": "Asthma_46",
+    "symptoms": [
+      "dizziness_1047",
+      "burning urination_924",
+      "burning urination_236"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3725",
+      "Doxycycline_4227",
+      "Omeprazole_175"
+    ]
+  },
+  {
+    "name": "Viral Fever_47",
+    "symptoms": [
+      "migraine_1095",
+      "fatigue_1134",
+      "abdominal pain_1262"
+    ],
+    "medicines": [
+      "Cefixime_2492",
+      "Ibuprofen_1735",
+      "Ondansetron_4797"
+    ]
+  },
+  {
+    "name": "Influenza_48",
+    "symptoms": [
+      "chest pain_94",
+      "sore throat_380",
+      "sore throat_271"
+    ],
+    "medicines": [
+      "Nitrofurantoin_399",
+      "Cetirizine_3359",
+      "Cefixime_4883"
+    ]
+  },
+  {
+    "name": "Gastritis_49",
+    "symptoms": [
+      "migraine_1077",
+      "cough_516",
+      "sneezing_1452",
+      "fatigue_971",
+      "shortness of breath_449",
+      "muscle pain_550",
+      "headache_1208"
+    ],
+    "medicines": [
+      "Metformin_2518",
+      "Diclofenac_4281",
+      "Atorvastatin_2260"
+    ]
+  },
+  {
+    "name": "Diabetes_50",
+    "symptoms": [
+      "vomiting_400",
+      "body pain_357",
+      "body pain_551",
+      "body pain_460"
+    ],
+    "medicines": [
+      "Ibuprofen_1112",
+      "Metformin_4251",
+      "Pantoprazole_1392"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_51",
+    "symptoms": [
+      "shortness of breath_677",
+      "cough_668",
+      "itching_1203",
+      "headache_882"
+    ],
+    "medicines": [
+      "Pantoprazole_3692",
+      "Cetirizine_5125",
+      "Metformin_2183"
+    ]
+  },
+  {
+    "name": "Pneumonia_52",
+    "symptoms": [
+      "migraine_833",
+      "runny nose_42",
+      "fatigue_1088"
+    ],
+    "medicines": [
+      "Omeprazole_5892",
+      "Amoxicillin_348",
+      "Metformin_2518"
+    ]
+  },
+  {
+    "name": "Food Poisoning_53",
+    "symptoms": [
+      "low fever_638",
+      "watery eyes_1252",
+      "dry cough_278"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4904",
+      "Amlodipine_2499",
+      "Salbutamol_453"
+    ]
+  },
+  {
+    "name": "Diabetes_54",
+    "symptoms": [
+      "wet cough_979",
+      "headache_1349",
+      "vomiting_433",
+      "itching_264",
+      "low fever_1382",
+      "ear pain_364"
+    ],
+    "medicines": [
+      "Doxycycline_4536",
+      "Nitrofurantoin_5052",
+      "Omeprazole_5933"
+    ]
+  },
+  {
+    "name": "Influenza_55",
+    "symptoms": [
+      "migraine_1407",
+      "back pain_859",
+      "headache_141",
+      "dry cough_1107",
+      "body pain_149",
+      "nausea_464"
+    ],
+    "medicines": [
+      "Metformin_1195",
+      "Amlodipine_2043",
+      "Levocetirizine_709"
+    ]
+  },
+  {
+    "name": "Food Poisoning_56",
+    "symptoms": [
+      "migraine_1270",
+      "ear pain_8",
+      "wet cough_874",
+      "high fever_988",
+      "headache_59",
+      "chills_1101"
+    ],
+    "medicines": [
+      "Azithromycin_3104",
+      "Amlodipine_58",
+      "Doxycycline_1361"
+    ]
+  },
+  {
+    "name": "Tuberculosis_57",
+    "symptoms": [
+      "sore throat_695",
+      "high fever_148",
+      "sneezing_821",
+      "rash_1225",
+      "itching_313"
+    ],
+    "medicines": [
+      "Losartan_4231",
+      "Levocetirizine_3192",
+      "Omeprazole_2748"
+    ]
+  },
+  {
+    "name": "Migraine_58",
+    "symptoms": [
+      "diarrhea_96",
+      "dizziness_1372",
+      "vomiting_623",
+      "joint pain_608"
+    ],
+    "medicines": [
+      "Doxycycline_3985",
+      "Metformin_986",
+      "Azithromycin_1785"
+    ]
+  },
+  {
+    "name": "Arthritis_59",
+    "symptoms": [
+      "abdominal pain_895",
+      "dizziness_1383",
+      "watery eyes_270",
+      "vomiting_117",
+      "dizziness_584"
+    ],
+    "medicines": [
+      "Losartan_3626",
+      "Domperidone_4509",
+      "Omeprazole_2222"
+    ]
+  },
+  {
+    "name": "Migraine_60",
+    "symptoms": [
+      "cough_1428",
+      "sore throat_1039",
+      "burning urination_106",
+      "vomiting_321"
+    ],
+    "medicines": [
+      "Azithromycin_4024",
+      "Omeprazole_1871",
+      "Losartan_3687"
+    ]
+  },
+  {
+    "name": "Bronchitis_61",
+    "symptoms": [
+      "rash_949",
+      "runny nose_879",
+      "shortness of breath_450",
+      "wet cough_979",
+      "shortness of breath_2",
+      "vomiting_737",
+      "sneezing_351"
+    ],
+    "medicines": [
+      "Metformin_2366",
+      "Cefixime_2962",
+      "Cefixime_4816"
+    ]
+  },
+  {
+    "name": "Bronchitis_62",
+    "symptoms": [
+      "cough_631",
+      "wet cough_496",
+      "itching_932",
+      "chills_615",
+      "dry cough_704",
+      "rash_662",
+      "dry cough_1275"
+    ],
+    "medicines": [
+      "Losartan_2267",
+      "Amoxicillin_896",
+      "Domperidone_4584"
+    ]
+  },
+  {
+    "name": "Food Poisoning_63",
+    "symptoms": [
+      "watery eyes_568",
+      "low fever_944",
+      "chest pain_582",
+      "fatigue_680",
+      "fever_823",
+      "sneezing_703",
+      "nausea_785"
+    ],
+    "medicines": [
+      "Losartan_383",
+      "Atorvastatin_3881",
+      "Paracetamol_4371"
+    ]
+  },
+  {
+    "name": "Pneumonia_64",
+    "symptoms": [
+      "low fever_921",
+      "dizziness_724",
+      "muscle pain_835",
+      "sore throat_1023"
+    ],
+    "medicines": [
+      "Losartan_667",
+      "Nitrofurantoin_400",
+      "Cefixime_3198"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_65",
+    "symptoms": [
+      "loss of appetite_128",
+      "fatigue_484",
+      "runny nose_31",
+      "low fever_1229",
+      "back pain_999",
+      "shortness of breath_2"
+    ],
+    "medicines": [
+      "Azithromycin_1097",
+      "Nitrofurantoin_3906",
+      "Domperidone_609"
+    ]
+  },
+  {
+    "name": "Malaria_66",
+    "symptoms": [
+      "wet cough_593",
+      "sneezing_1057",
+      "chest pain_597",
+      "chest pain_1099",
+      "shortness of breath_1453",
+      "low fever_1327"
+    ],
+    "medicines": [
+      "Amlodipine_3589",
+      "Domperidone_4901",
+      "Azithromycin_2236"
+    ]
+  },
+  {
+    "name": "Bronchitis_67",
+    "symptoms": [
+      "cough_1428",
+      "burning urination_1102",
+      "migraine_163",
+      "sore throat_380",
+      "abdominal pain_976",
+      "headache_45"
+    ],
+    "medicines": [
+      "Atorvastatin_2092",
+      "Ondansetron_1908",
+      "Azithromycin_811"
+    ]
+  },
+  {
+    "name": "Viral Fever_68",
+    "symptoms": [
+      "back pain_1202",
+      "dizziness_20",
+      "sore throat_1492",
+      "wet cough_1170"
+    ],
+    "medicines": [
+      "Nitrofurantoin_2970",
+      "Doxycycline_1133",
+      "Losartan_604"
+    ]
+  },
+  {
+    "name": "Dermatitis_69",
+    "symptoms": [
+      "sneezing_370",
+      "chest pain_753",
+      "body pain_524"
+    ],
+    "medicines": [
+      "Salbutamol_3550",
+      "Domperidone_4031",
+      "Levocetirizine_3042"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_70",
+    "symptoms": [
+      "nausea_1100",
+      "wet cough_874",
+      "sore throat_488",
+      "dry cough_1003",
+      "runny nose_418",
+      "dizziness_724"
+    ],
+    "medicines": [
+      "Cetirizine_5649",
+      "Amoxicillin_2035",
+      "Amlodipine_5527"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_71",
+    "symptoms": [
+      "runny nose_1235",
+      "dry cough_1025",
+      "cough_713",
+      "abdominal pain_1195"
+    ],
+    "medicines": [
+      "Diclofenac_4873",
+      "Nitrofurantoin_1706",
+      "Metformin_1759"
+    ]
+  },
+  {
+    "name": "Asthma_72",
+    "symptoms": [
+      "body pain_325",
+      "chest pain_76",
+      "diarrhea_257",
+      "nausea_1362",
+      "loss of appetite_1082",
+      "burning urination_310"
+    ],
+    "medicines": [
+      "Losartan_5175",
+      "Azithromycin_5047",
+      "Cefixime_597"
+    ]
+  },
+  {
+    "name": "Dermatitis_73",
+    "symptoms": [
+      "body pain_179",
+      "ear pain_573",
+      "body pain_252",
+      "burning urination_1419",
+      "fatigue_743",
+      "fatigue_484",
+      "chest pain_507"
+    ],
+    "medicines": [
+      "Domperidone_444",
+      "Amoxicillin_5810",
+      "Atorvastatin_522"
+    ]
+  },
+  {
+    "name": "Hypertension_74",
+    "symptoms": [
+      "watery eyes_994",
+      "watery eyes_270",
+      "dizziness_1260",
+      "abdominal pain_443",
+      "high fever_414",
+      "rash_865",
+      "rash_1328"
+    ],
+    "medicines": [
+      "Omeprazole_3288",
+      "Ondansetron_3374",
+      "Domperidone_61"
+    ]
+  },
+  {
+    "name": "Sinusitis_75",
+    "symptoms": [
+      "migraine_919",
+      "ear pain_115",
+      "cough_38",
+      "high fever_1036",
+      "back pain_721",
+      "frequent urination_250"
+    ],
+    "medicines": [
+      "Atorvastatin_165",
+      "Nitrofurantoin_446",
+      "Doxycycline_1240"
+    ]
+  },
+  {
+    "name": "Common Cold_76",
+    "symptoms": [
+      "rash_1124",
+      "wet cough_1114",
+      "wet cough_931",
+      "back pain_206",
+      "vomiting_1103"
+    ],
+    "medicines": [
+      "Atorvastatin_4365",
+      "Azithromycin_4393",
+      "Levocetirizine_1600"
+    ]
+  },
+  {
+    "name": "Sinusitis_77",
+    "symptoms": [
+      "chills_98",
+      "dizziness_706",
+      "runny nose_1299",
+      "wet cough_448",
+      "muscle pain_1200",
+      "runny nose_530"
+    ],
+    "medicines": [
+      "Losartan_2444",
+      "Azithromycin_2287",
+      "Omeprazole_3461"
+    ]
+  },
+  {
+    "name": "Hypertension_78",
+    "symptoms": [
+      "chills_948",
+      "abdominal pain_443",
+      "wet cough_448",
+      "sneezing_421",
+      "ear pain_327",
+      "rash_1116",
+      "back pain_975"
+    ],
+    "medicines": [
+      "Doxycycline_3624",
+      "Domperidone_294",
+      "Paracetamol_2464"
+    ]
+  },
+  {
+    "name": "Viral Fever_79",
+    "symptoms": [
+      "dry cough_1454",
+      "abdominal pain_761",
+      "rash_1328"
+    ],
+    "medicines": [
+      "Amlodipine_4340",
+      "Doxycycline_4149",
+      "Domperidone_3322"
+    ]
+  },
+  {
+    "name": "Influenza_80",
+    "symptoms": [
+      "shortness of breath_655",
+      "ear pain_573",
+      "sore throat_1194",
+      "chills_1186"
+    ],
+    "medicines": [
+      "Azithromycin_3810",
+      "Ondansetron_2466",
+      "Ibuprofen_5955"
+    ]
+  },
+  {
+    "name": "Arthritis_81",
+    "symptoms": [
+      "runny nose_1145",
+      "cough_837",
+      "headache_210",
+      "chills_1223",
+      "high fever_148",
+      "low fever_646"
+    ],
+    "medicines": [
+      "Ibuprofen_5004",
+      "Nitrofurantoin_4538",
+      "Ibuprofen_1288"
+    ]
+  },
+  {
+    "name": "Asthma_82",
+    "symptoms": [
+      "sore throat_694",
+      "abdominal pain_302",
+      "dry cough_1211",
+      "joint pain_1163",
+      "ear pain_1378",
+      "burning urination_1189",
+      "cough_438"
+    ],
+    "medicines": [
+      "Cefixime_2749",
+      "Diclofenac_2572",
+      "Nitrofurantoin_5126"
+    ]
+  },
+  {
+    "name": "Sinusitis_83",
+    "symptoms": [
+      "burning urination_572",
+      "vomiting_279",
+      "abdominal pain_430",
+      "dry cough_581",
+      "frequent urination_250",
+      "watery eyes_37",
+      "itching_243"
+    ],
+    "medicines": [
+      "Salbutamol_3851",
+      "Paracetamol_5285",
+      "Levocetirizine_130"
+    ]
+  },
+  {
+    "name": "Diabetes_84",
+    "symptoms": [
+      "fatigue_1000",
+      "back pain_1014",
+      "headache_636",
+      "diarrhea_714"
+    ],
+    "medicines": [
+      "Ibuprofen_3514",
+      "Amoxicillin_1037",
+      "Pantoprazole_5082"
+    ]
+  },
+  {
+    "name": "Asthma_85",
+    "symptoms": [
+      "chills_977",
+      "sneezing_814",
+      "dizziness_1035"
+    ],
+    "medicines": [
+      "Atorvastatin_1693",
+      "Salbutamol_2981",
+      "Cetirizine_5902"
+    ]
+  },
+  {
+    "name": "Bronchitis_86",
+    "symptoms": [
+      "migraine_163",
+      "fever_1449",
+      "low fever_130",
+      "ear pain_327"
+    ],
+    "medicines": [
+      "Amoxicillin_4955",
+      "Ibuprofen_3831",
+      "Cefixime_3118"
+    ]
+  },
+  {
+    "name": "Bronchitis_87",
+    "symptoms": [
+      "nausea_974",
+      "frequent urination_250",
+      "burning urination_802",
+      "dry cough_29",
+      "vomiting_918",
+      "shortness of breath_888",
+      "headache_435"
+    ],
+    "medicines": [
+      "Domperidone_2245",
+      "Cefixime_2044",
+      "Atorvastatin_2369"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_88",
+    "symptoms": [
+      "watery eyes_37",
+      "joint pain_3",
+      "burning urination_917",
+      "ear pain_545",
+      "joint pain_1212"
+    ],
+    "medicines": [
+      "Amoxicillin_1132",
+      "Losartan_4533",
+      "Amlodipine_5625"
+    ]
+  },
+  {
+    "name": "Bronchitis_89",
+    "symptoms": [
+      "joint pain_1163",
+      "sore throat_1295",
+      "abdominal pain_956",
+      "nausea_1430",
+      "fever_1437",
+      "wet cough_1498",
+      "joint pain_834"
+    ],
+    "medicines": [
+      "Cefixime_1374",
+      "Pantoprazole_4737",
+      "Losartan_3772"
+    ]
+  },
+  {
+    "name": "Influenza_90",
+    "symptoms": [
+      "fatigue_505",
+      "rash_543",
+      "high fever_183",
+      "headache_472",
+      "abdominal pain_373",
+      "rash_1199",
+      "fever_1449"
+    ],
+    "medicines": [
+      "Salbutamol_1290",
+      "Amlodipine_3941",
+      "Pantoprazole_2605"
+    ]
+  },
+  {
+    "name": "Diabetes_91",
+    "symptoms": [
+      "joint pain_184",
+      "low fever_1356",
+      "chills_1422"
+    ],
+    "medicines": [
+      "Doxycycline_5484",
+      "Montelukast_449",
+      "Azithromycin_4922"
+    ]
+  },
+  {
+    "name": "Typhoid_92",
+    "symptoms": [
+      "shortness of breath_1249",
+      "fatigue_946",
+      "itching_152",
+      "watery eyes_1379"
+    ],
+    "medicines": [
+      "Domperidone_2388",
+      "Paracetamol_4026",
+      "Amlodipine_2426"
+    ]
+  },
+  {
+    "name": "Common Cold_93",
+    "symptoms": [
+      "abdominal pain_329",
+      "runny nose_231",
+      "chills_1205",
+      "ear pain_138",
+      "sneezing_55",
+      "back pain_915"
+    ],
+    "medicines": [
+      "Paracetamol_2134",
+      "Omeprazole_116",
+      "Doxycycline_527"
+    ]
+  },
+  {
+    "name": "Asthma_94",
+    "symptoms": [
+      "itching_1203",
+      "abdominal pain_870",
+      "diarrhea_838",
+      "diarrhea_77",
+      "joint pain_1310",
+      "fatigue_1088",
+      "chills_260"
+    ],
+    "medicines": [
+      "Cetirizine_4817",
+      "Losartan_5073",
+      "Cefixime_249"
+    ]
+  },
+  {
+    "name": "Arthritis_95",
+    "symptoms": [
+      "wet cough_1330",
+      "migraine_666",
+      "cough_234"
+    ],
+    "medicines": [
+      "Cefixime_333",
+      "Omeprazole_4998",
+      "Cefixime_1509"
+    ]
+  },
+  {
+    "name": "Influenza_96",
+    "symptoms": [
+      "sore throat_1108",
+      "low fever_769",
+      "sneezing_299",
+      "dizziness_708"
+    ],
+    "medicines": [
+      "Amoxicillin_4837",
+      "Doxycycline_3144",
+      "Ondansetron_1898"
+    ]
+  },
+  {
+    "name": "Hypertension_97",
+    "symptoms": [
+      "body pain_1499",
+      "dizziness_498",
+      "abdominal pain_443",
+      "ear pain_196",
+      "body pain_357",
+      "chills_851",
+      "headache_369"
+    ],
+    "medicines": [
+      "Amlodipine_5046",
+      "Domperidone_5114",
+      "Atorvastatin_1713"
+    ]
+  },
+  {
+    "name": "Food Poisoning_98",
+    "symptoms": [
+      "joint pain_225",
+      "high fever_339",
+      "fatigue_1131",
+      "high fever_148",
+      "migraine_666"
+    ],
+    "medicines": [
+      "Levocetirizine_628",
+      "Omeprazole_3044",
+      "Amlodipine_2058"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_99",
+    "symptoms": [
+      "itching_772",
+      "frequent urination_700",
+      "low fever_739",
+      "shortness of breath_1397",
+      "fatigue_336",
+      "fatigue_120",
+      "rash_865"
+    ],
+    "medicines": [
+      "Azithromycin_3246",
+      "Metformin_3236",
+      "Paracetamol_1623"
+    ]
+  },
+  {
+    "name": "Arthritis_100",
+    "symptoms": [
+      "body pain_1092",
+      "ear pain_44",
+      "body pain_47",
+      "back pain_915",
+      "migraine_1459",
+      "watery eyes_805",
+      "diarrhea_1286"
+    ],
+    "medicines": [
+      "Azithromycin_4240",
+      "Amlodipine_3571",
+      "Pantoprazole_3424"
+    ]
+  },
+  {
+    "name": "Malaria_101",
+    "symptoms": [
+      "frequent urination_563",
+      "chills_697",
+      "dizziness_1047",
+      "joint pain_184",
+      "loss of appetite_128",
+      "cough_837",
+      "rash_502"
+    ],
+    "medicines": [
+      "Diclofenac_5370",
+      "Cefixime_5827",
+      "Diclofenac_350"
+    ]
+  },
+  {
+    "name": "Viral Fever_102",
+    "symptoms": [
+      "shortness of breath_1250",
+      "watery eyes_37",
+      "fever_344",
+      "abdominal pain_1457",
+      "burning urination_454",
+      "back pain_1255",
+      "migraine_308"
+    ],
+    "medicines": [
+      "Cefixime_1237",
+      "Doxycycline_2097",
+      "Pantoprazole_5929"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_103",
+    "symptoms": [
+      "rash_877",
+      "itching_1401",
+      "vomiting_318",
+      "rash_189"
+    ],
+    "medicines": [
+      "Paracetamol_1593",
+      "Ondansetron_4881",
+      "Nitrofurantoin_1530"
+    ]
+  },
+  {
+    "name": "Typhoid_104",
+    "symptoms": [
+      "fatigue_680",
+      "watery eyes_51",
+      "vomiting_426",
+      "sore throat_1492",
+      "fever_823",
+      "low fever_549",
+      "joint pain_595"
+    ],
+    "medicines": [
+      "Doxycycline_2048",
+      "Cetirizine_1549",
+      "Amoxicillin_2017"
+    ]
+  },
+  {
+    "name": "Arthritis_105",
+    "symptoms": [
+      "migraine_947",
+      "sneezing_1319",
+      "abdominal pain_1414",
+      "diarrhea_96"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4051",
+      "Pantoprazole_4301",
+      "Cetirizine_1932"
+    ]
+  },
+  {
+    "name": "Viral Fever_106",
+    "symptoms": [
+      "itching_265",
+      "nausea_1031",
+      "body pain_144",
+      "watery eyes_1487"
+    ],
+    "medicines": [
+      "Pantoprazole_4959",
+      "Ondansetron_2659",
+      "Amlodipine_2018"
+    ]
+  },
+  {
+    "name": "Arthritis_107",
+    "symptoms": [
+      "body pain_1480",
+      "sneezing_1452",
+      "watery eyes_1348",
+      "back pain_493",
+      "chest pain_324"
+    ],
+    "medicines": [
+      "Omeprazole_5933",
+      "Domperidone_3731",
+      "Metformin_3968"
+    ]
+  },
+  {
+    "name": "Influenza_108",
+    "symptoms": [
+      "low fever_549",
+      "rash_167",
+      "muscle pain_534",
+      "shortness of breath_303",
+      "frequent urination_1078"
+    ],
+    "medicines": [
+      "Pantoprazole_5069",
+      "Nitrofurantoin_3216",
+      "Amlodipine_2891"
+    ]
+  },
+  {
+    "name": "Food Poisoning_109",
+    "symptoms": [
+      "burning urination_1337",
+      "high fever_1417",
+      "low fever_333",
+      "chest pain_427"
+    ],
+    "medicines": [
+      "Amoxicillin_3311",
+      "Pantoprazole_3047",
+      "Montelukast_5099"
+    ]
+  },
+  {
+    "name": "Arthritis_110",
+    "symptoms": [
+      "fatigue_120",
+      "sore throat_995",
+      "abdominal pain_473",
+      "burning urination_106"
+    ],
+    "medicines": [
+      "Atorvastatin_1951",
+      "Cetirizine_1426",
+      "Cetirizine_83"
+    ]
+  },
+  {
+    "name": "Typhoid_111",
+    "symptoms": [
+      "sore throat_1194",
+      "vomiting_778",
+      "shortness of breath_980"
+    ],
+    "medicines": [
+      "Omeprazole_2452",
+      "Cetirizine_978",
+      "Atorvastatin_2920"
+    ]
+  },
+  {
+    "name": "Sinusitis_112",
+    "symptoms": [
+      "body pain_564",
+      "loss of appetite_132",
+      "chest pain_783"
+    ],
+    "medicines": [
+      "Paracetamol_3787",
+      "Salbutamol_2259",
+      "Cetirizine_1098"
+    ]
+  },
+  {
+    "name": "Typhoid_113",
+    "symptoms": [
+      "ear pain_693",
+      "ear pain_364",
+      "shortness of breath_871",
+      "burning urination_1394",
+      "sneezing_989"
+    ],
+    "medicines": [
+      "Montelukast_1024",
+      "Amlodipine_5289",
+      "Salbutamol_4010"
+    ]
+  },
+  {
+    "name": "Influenza_114",
+    "symptoms": [
+      "back pain_1491",
+      "sneezing_1439",
+      "abdominal pain_373",
+      "fatigue_277",
+      "itching_1174",
+      "ear pain_1121"
+    ],
+    "medicines": [
+      "Diclofenac_2227",
+      "Paracetamol_2054",
+      "Domperidone_5766"
+    ]
+  },
+  {
+    "name": "Asthma_115",
+    "symptoms": [
+      "dry cough_1261",
+      "sore throat_444",
+      "shortness of breath_952",
+      "joint pain_1331",
+      "nausea_785"
+    ],
+    "medicines": [
+      "Amlodipine_2042",
+      "Paracetamol_4755",
+      "Ibuprofen_4897"
+    ]
+  },
+  {
+    "name": "Dermatitis_116",
+    "symptoms": [
+      "nausea_1360",
+      "diarrhea_410",
+      "headache_882",
+      "dizziness_498"
+    ],
+    "medicines": [
+      "Domperidone_4202",
+      "Amoxicillin_370",
+      "Ibuprofen_509"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_117",
+    "symptoms": [
+      "sneezing_733",
+      "diarrhea_1058",
+      "itching_717"
+    ],
+    "medicines": [
+      "Ondansetron_211",
+      "Metformin_3827",
+      "Cefixime_1511"
+    ]
+  },
+  {
+    "name": "Dermatitis_118",
+    "symptoms": [
+      "fever_950",
+      "rash_497",
+      "loss of appetite_305",
+      "watery eyes_1252"
+    ],
+    "medicines": [
+      "Pantoprazole_12",
+      "Paracetamol_2592",
+      "Amoxicillin_3440"
+    ]
+  },
+  {
+    "name": "Migraine_119",
+    "symptoms": [
+      "fever_158",
+      "vomiting_365",
+      "nausea_386",
+      "low fever_554",
+      "low fever_1273",
+      "high fever_183"
+    ],
+    "medicines": [
+      "Metformin_3730",
+      "Cefixime_1061",
+      "Salbutamol_2239"
+    ]
+  },
+  {
+    "name": "Asthma_120",
+    "symptoms": [
+      "joint pain_261",
+      "itching_1217",
+      "body pain_564",
+      "chest pain_1350",
+      "muscle pain_385"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4446",
+      "Paracetamol_5828",
+      "Ondansetron_385"
+    ]
+  },
+  {
+    "name": "Sinusitis_121",
+    "symptoms": [
+      "high fever_12",
+      "dizziness_159",
+      "fatigue_946",
+      "dizziness_20",
+      "muscle pain_1117",
+      "cough_780",
+      "diarrhea_714"
+    ],
+    "medicines": [
+      "Omeprazole_2286",
+      "Omeprazole_5207",
+      "Losartan_5316"
+    ]
+  },
+  {
+    "name": "Diabetes_122",
+    "symptoms": [
+      "low fever_130",
+      "ear pain_1032",
+      "shortness of breath_1250"
+    ],
+    "medicines": [
+      "Domperidone_5963",
+      "Levocetirizine_1732",
+      "Pantoprazole_1050"
+    ]
+  },
+  {
+    "name": "Typhoid_123",
+    "symptoms": [
+      "back pain_875",
+      "nausea_925",
+      "shortness of breath_820"
+    ],
+    "medicines": [
+      "Levocetirizine_1405",
+      "Azithromycin_1462",
+      "Amoxicillin_864"
+    ]
+  },
+  {
+    "name": "Sinusitis_124",
+    "symptoms": [
+      "diarrhea_415",
+      "watery eyes_1071",
+      "vomiting_1188",
+      "sneezing_1017",
+      "high fever_514"
+    ],
+    "medicines": [
+      "Paracetamol_1903",
+      "Doxycycline_4605",
+      "Salbutamol_3065"
+    ]
+  },
+  {
+    "name": "Bronchitis_125",
+    "symptoms": [
+      "ear pain_203",
+      "muscle pain_216",
+      "fatigue_1318",
+      "nausea_1008",
+      "runny nose_231"
+    ],
+    "medicines": [
+      "Diclofenac_3944",
+      "Losartan_2600",
+      "Omeprazole_4811"
+    ]
+  },
+  {
+    "name": "Typhoid_126",
+    "symptoms": [
+      "migraine_274",
+      "sore throat_695",
+      "sore throat_314"
+    ],
+    "medicines": [
+      "Pantoprazole_4886",
+      "Montelukast_1568",
+      "Levocetirizine_4494"
+    ]
+  },
+  {
+    "name": "Asthma_127",
+    "symptoms": [
+      "wet cough_1410",
+      "back pain_1373",
+      "headache_436",
+      "high fever_701",
+      "vomiting_850",
+      "fatigue_1318"
+    ],
+    "medicines": [
+      "Azithromycin_1815",
+      "Omeprazole_5282",
+      "Doxycycline_4962"
+    ]
+  },
+  {
+    "name": "Arthritis_128",
+    "symptoms": [
+      "sneezing_1215",
+      "ear pain_897",
+      "vomiting_754",
+      "fatigue_1052",
+      "vomiting_1070",
+      "nausea_1129"
+    ],
+    "medicines": [
+      "Pantoprazole_2605",
+      "Doxycycline_4149",
+      "Nitrofurantoin_1586"
+    ]
+  },
+  {
+    "name": "Tuberculosis_129",
+    "symptoms": [
+      "muscle pain_1433",
+      "dry cough_131",
+      "cough_729",
+      "sneezing_972",
+      "body pain_574"
+    ],
+    "medicines": [
+      "Azithromycin_3593",
+      "Domperidone_2196",
+      "Azithromycin_1070"
+    ]
+  },
+  {
+    "name": "Bronchitis_130",
+    "symptoms": [
+      "back pain_1226",
+      "body pain_702",
+      "wet cough_979",
+      "joint pain_608"
+    ],
+    "medicines": [
+      "Ondansetron_5141",
+      "Diclofenac_5441",
+      "Nitrofurantoin_5052"
+    ]
+  },
+  {
+    "name": "Sinusitis_131",
+    "symptoms": [
+      "dry cough_1448",
+      "fatigue_1404",
+      "ear pain_156",
+      "migraine_1030",
+      "migraine_446",
+      "chills_1127"
+    ],
+    "medicines": [
+      "Cefixime_632",
+      "Doxycycline_788",
+      "Cefixime_2135"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_132",
+    "symptoms": [
+      "dizziness_4",
+      "sneezing_1069",
+      "ear pain_203",
+      "rash_1279",
+      "abdominal pain_1005",
+      "runny nose_1355"
+    ],
+    "medicines": [
+      "Cetirizine_1308",
+      "Azithromycin_596",
+      "Omeprazole_2404"
+    ]
+  },
+  {
+    "name": "Food Poisoning_133",
+    "symptoms": [
+      "diarrhea_1370",
+      "joint pain_319",
+      "chills_102"
+    ],
+    "medicines": [
+      "Levocetirizine_3669",
+      "Paracetamol_2777",
+      "Doxycycline_4954"
+    ]
+  },
+  {
+    "name": "Typhoid_134",
+    "symptoms": [
+      "burning urination_659",
+      "muscle pain_1280",
+      "frequent urination_1380",
+      "watery eyes_640",
+      "watery eyes_1379",
+      "dry cough_735",
+      "loss of appetite_425"
+    ],
+    "medicines": [
+      "Salbutamol_2393",
+      "Ondansetron_627",
+      "Atorvastatin_4194"
+    ]
+  },
+  {
+    "name": "Food Poisoning_135",
+    "symptoms": [
+      "rash_1282",
+      "chest pain_389",
+      "high fever_63",
+      "watery eyes_110",
+      "migraine_181",
+      "muscle pain_992",
+      "itching_313"
+    ],
+    "medicines": [
+      "Salbutamol_4355",
+      "Doxycycline_497",
+      "Losartan_3324"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_136",
+    "symptoms": [
+      "chills_1422",
+      "loss of appetite_957",
+      "frequent urination_1213",
+      "ear pain_327"
+    ],
+    "medicines": [
+      "Diclofenac_350",
+      "Pantoprazole_1007",
+      "Domperidone_2483"
+    ]
+  },
+  {
+    "name": "Common Cold_137",
+    "symptoms": [
+      "fatigue_743",
+      "diarrhea_868",
+      "wet cough_1412",
+      "diarrhea_1482"
+    ],
+    "medicines": [
+      "Amoxicillin_4187",
+      "Ibuprofen_4180",
+      "Omeprazole_4221"
+    ]
+  },
+  {
+    "name": "Pneumonia_138",
+    "symptoms": [
+      "diarrhea_689",
+      "dry cough_1454",
+      "watery eyes_37",
+      "rash_167",
+      "fever_1094"
+    ],
+    "medicines": [
+      "Salbutamol_3880",
+      "Diclofenac_442",
+      "Diclofenac_3964"
+    ]
+  },
+  {
+    "name": "Dermatitis_139",
+    "symptoms": [
+      "itching_771",
+      "frequent urination_292",
+      "chest pain_1350",
+      "rash_407",
+      "nausea_811",
+      "body pain_755"
+    ],
+    "medicines": [
+      "Cetirizine_2375",
+      "Nitrofurantoin_1463",
+      "Nitrofurantoin_2732"
+    ]
+  },
+  {
+    "name": "Hypertension_140",
+    "symptoms": [
+      "high fever_429",
+      "itching_772",
+      "chills_169",
+      "back pain_494",
+      "runny nose_1",
+      "shortness of breath_1233",
+      "rash_653"
+    ],
+    "medicines": [
+      "Omeprazole_2512",
+      "Amlodipine_5957",
+      "Pantoprazole_2605"
+    ]
+  },
+  {
+    "name": "Influenza_141",
+    "symptoms": [
+      "joint pain_933",
+      "wet cough_448",
+      "abdominal pain_956",
+      "chills_667"
+    ],
+    "medicines": [
+      "Pantoprazole_3305",
+      "Paracetamol_1756",
+      "Cetirizine_842"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_142",
+    "symptoms": [
+      "migraine_880",
+      "diarrhea_890",
+      "fatigue_371",
+      "dizziness_244",
+      "vomiting_538",
+      "diarrhea_1370",
+      "cough_982"
+    ],
+    "medicines": [
+      "Domperidone_107",
+      "Ondansetron_3721",
+      "Ondansetron_3306"
+    ]
+  },
+  {
+    "name": "Gastritis_143",
+    "symptoms": [
+      "cough_376",
+      "body pain_920",
+      "sneezing_821",
+      "high fever_633",
+      "sneezing_1440"
+    ],
+    "medicines": [
+      "Amlodipine_4151",
+      "Atorvastatin_5776",
+      "Omeprazole_2406"
+    ]
+  },
+  {
+    "name": "Influenza_144",
+    "symptoms": [
+      "body pain_1151",
+      "loss of appetite_1368",
+      "nausea_470",
+      "back pain_206"
+    ],
+    "medicines": [
+      "Cetirizine_5111",
+      "Amoxicillin_5199",
+      "Cefixime_4087"
+    ]
+  },
+  {
+    "name": "Tuberculosis_145",
+    "symptoms": [
+      "chills_948",
+      "high fever_1307",
+      "rash_1056",
+      "chills_1101",
+      "rash_497",
+      "headache_1363"
+    ],
+    "medicines": [
+      "Pantoprazole_1513",
+      "Amlodipine_3571",
+      "Paracetamol_2740"
+    ]
+  },
+  {
+    "name": "Common Cold_146",
+    "symptoms": [
+      "chills_98",
+      "fever_1128",
+      "wet cough_1034",
+      "chills_1186",
+      "ear pain_232",
+      "sore throat_1108",
+      "chills_1207"
+    ],
+    "medicines": [
+      "Omeprazole_1913",
+      "Atorvastatin_829",
+      "Paracetamol_1826"
+    ]
+  },
+  {
+    "name": "Common Cold_147",
+    "symptoms": [
+      "vomiting_778",
+      "high fever_46",
+      "headache_1490"
+    ],
+    "medicines": [
+      "Domperidone_558",
+      "Nitrofurantoin_2801",
+      "Pantoprazole_4527"
+    ]
+  },
+  {
+    "name": "Pneumonia_148",
+    "symptoms": [
+      "headache_288",
+      "loss of appetite_305",
+      "itching_771",
+      "burning urination_525",
+      "cough_1119"
+    ],
+    "medicines": [
+      "Paracetamol_5644",
+      "Cefixime_3078",
+      "Ibuprofen_4180"
+    ]
+  },
+  {
+    "name": "Malaria_149",
+    "symptoms": [
+      "dizziness_1392",
+      "abdominal pain_985",
+      "muscle pain_534",
+      "chest pain_389"
+    ],
+    "medicines": [
+      "Cefixime_2552",
+      "Cefixime_4171",
+      "Montelukast_462"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_150",
+    "symptoms": [
+      "headache_472",
+      "diarrhea_936",
+      "ear pain_187",
+      "shortness of breath_873"
+    ],
+    "medicines": [
+      "Nitrofurantoin_5515",
+      "Amlodipine_4203",
+      "Azithromycin_3235"
+    ]
+  },
+  {
+    "name": "Influenza_151",
+    "symptoms": [
+      "low fever_676",
+      "headache_1363",
+      "joint pain_1165",
+      "runny nose_1488",
+      "shortness of breath_1345",
+      "chest pain_118"
+    ],
+    "medicines": [
+      "Doxycycline_1010",
+      "Omeprazole_1637",
+      "Metformin_1034"
+    ]
+  },
+  {
+    "name": "Tuberculosis_152",
+    "symptoms": [
+      "joint pain_1212",
+      "ear pain_1166",
+      "dry cough_1416",
+      "rash_1367",
+      "frequent urination_412"
+    ],
+    "medicines": [
+      "Cetirizine_3614",
+      "Ibuprofen_210",
+      "Amoxicillin_204"
+    ]
+  },
+  {
+    "name": "Food Poisoning_153",
+    "symptoms": [
+      "sneezing_1274",
+      "wet cough_979",
+      "wet cough_1396",
+      "shortness of breath_303",
+      "chills_93",
+      "migraine_1185"
+    ],
+    "medicines": [
+      "Nitrofurantoin_2970",
+      "Omeprazole_2185",
+      "Montelukast_2733"
+    ]
+  },
+  {
+    "name": "Influenza_154",
+    "symptoms": [
+      "watery eyes_441",
+      "diarrhea_1297",
+      "joint pain_872"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3165",
+      "Atorvastatin_935",
+      "Domperidone_4226"
+    ]
+  },
+  {
+    "name": "Typhoid_155",
+    "symptoms": [
+      "nausea_1066",
+      "rash_1018",
+      "dizziness_1150"
+    ],
+    "medicines": [
+      "Salbutamol_4402",
+      "Amoxicillin_5934",
+      "Losartan_4643"
+    ]
+  },
+  {
+    "name": "Malaria_156",
+    "symptoms": [
+      "body pain_1198",
+      "watery eyes_546",
+      "burning urination_1337",
+      "watery eyes_384",
+      "vomiting_778"
+    ],
+    "medicines": [
+      "Ondansetron_2624",
+      "Diclofenac_1159",
+      "Ondansetron_2102"
+    ]
+  },
+  {
+    "name": "Diabetes_157",
+    "symptoms": [
+      "cough_18",
+      "high fever_205",
+      "cough_780"
+    ],
+    "medicines": [
+      "Amlodipine_2548",
+      "Omeprazole_5541",
+      "Cetirizine_5203"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_158",
+    "symptoms": [
+      "nausea_1360",
+      "fever_1437",
+      "abdominal pain_828",
+      "abdominal pain_870"
+    ],
+    "medicines": [
+      "Cetirizine_4571",
+      "Omeprazole_5210",
+      "Ibuprofen_4096"
+    ]
+  },
+  {
+    "name": "Viral Fever_159",
+    "symptoms": [
+      "runny nose_553",
+      "diarrhea_77",
+      "frequent urination_1078",
+      "rash_502",
+      "body pain_711",
+      "runny nose_627",
+      "sneezing_1242"
+    ],
+    "medicines": [
+      "Omeprazole_3529",
+      "Salbutamol_236",
+      "Diclofenac_904"
+    ]
+  },
+  {
+    "name": "Asthma_160",
+    "symptoms": [
+      "joint pain_595",
+      "back pain_1226",
+      "high fever_1248"
+    ],
+    "medicines": [
+      "Levocetirizine_4012",
+      "Salbutamol_4575",
+      "Doxycycline_3035"
+    ]
+  },
+  {
+    "name": "Bronchitis_161",
+    "symptoms": [
+      "watery eyes_1483",
+      "abdominal pain_116",
+      "burning urination_354"
+    ],
+    "medicines": [
+      "Amoxicillin_612",
+      "Nitrofurantoin_3128",
+      "Amlodipine_1663"
+    ]
+  },
+  {
+    "name": "Asthma_162",
+    "symptoms": [
+      "joint pain_595",
+      "itching_211",
+      "vomiting_778",
+      "watery eyes_1348"
+    ],
+    "medicines": [
+      "Azithromycin_5235",
+      "Losartan_5702",
+      "Amoxicillin_3650"
+    ]
+  },
+  {
+    "name": "Food Poisoning_163",
+    "symptoms": [
+      "wet cough_448",
+      "cough_606",
+      "burning urination_705"
+    ],
+    "medicines": [
+      "Diclofenac_2698",
+      "Omeprazole_363",
+      "Salbutamol_5580"
+    ]
+  },
+  {
+    "name": "Gastritis_164",
+    "symptoms": [
+      "sneezing_863",
+      "fatigue_277",
+      "loss of appetite_712",
+      "abdominal pain_430",
+      "rash_407",
+      "body pain_1019",
+      "frequent urination_1213"
+    ],
+    "medicines": [
+      "Levocetirizine_4680",
+      "Cetirizine_3871",
+      "Losartan_3818"
+    ]
+  },
+  {
+    "name": "Migraine_165",
+    "symptoms": [
+      "chest pain_650",
+      "fatigue_1253",
+      "sore throat_1039"
+    ],
+    "medicines": [
+      "Salbutamol_3681",
+      "Pantoprazole_1588",
+      "Doxycycline_263"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_166",
+    "symptoms": [
+      "fatigue_174",
+      "ear pain_187",
+      "loss of appetite_1164"
+    ],
+    "medicines": [
+      "Losartan_1741",
+      "Salbutamol_1991",
+      "Omeprazole_5865"
+    ]
+  },
+  {
+    "name": "Typhoid_167",
+    "symptoms": [
+      "ear pain_391",
+      "diarrhea_731",
+      "burning urination_864",
+      "dry cough_990"
+    ],
+    "medicines": [
+      "Ondansetron_545",
+      "Diclofenac_136",
+      "Salbutamol_4572"
+    ]
+  },
+  {
+    "name": "Typhoid_168",
+    "symptoms": [
+      "rash_935",
+      "sneezing_351",
+      "joint pain_75",
+      "wet cough_874",
+      "itching_119",
+      "migraine_446"
+    ],
+    "medicines": [
+      "Domperidone_2906",
+      "Nitrofurantoin_5360",
+      "Atorvastatin_4872"
+    ]
+  },
+  {
+    "name": "Pneumonia_169",
+    "symptoms": [
+      "low fever_1080",
+      "frequent urination_250",
+      "shortness of breath_930",
+      "fatigue_1291"
+    ],
+    "medicines": [
+      "Paracetamol_2655",
+      "Atorvastatin_829",
+      "Atorvastatin_3743"
+    ]
+  },
+  {
+    "name": "Gastritis_170",
+    "symptoms": [
+      "diarrhea_689",
+      "migraine_1354",
+      "loss of appetite_128",
+      "loss of appetite_1300",
+      "migraine_885",
+      "ear pain_545"
+    ],
+    "medicines": [
+      "Ibuprofen_2258",
+      "Ondansetron_5870",
+      "Amlodipine_4827"
+    ]
+  },
+  {
+    "name": "Hypertension_171",
+    "symptoms": [
+      "fatigue_971",
+      "body pain_149",
+      "watery eyes_587",
+      "migraine_317"
+    ],
+    "medicines": [
+      "Cetirizine_871",
+      "Omeprazole_3741",
+      "Azithromycin_4760"
+    ]
+  },
+  {
+    "name": "Viral Fever_172",
+    "symptoms": [
+      "joint pain_1314",
+      "burning urination_1359",
+      "itching_243",
+      "cough_1276",
+      "abdominal pain_116",
+      "fatigue_307"
+    ],
+    "medicines": [
+      "Doxycycline_4504",
+      "Ibuprofen_5641",
+      "Ibuprofen_4957"
+    ]
+  },
+  {
+    "name": "Gastritis_173",
+    "symptoms": [
+      "headache_1204",
+      "joint pain_595",
+      "dizziness_590",
+      "shortness of breath_88",
+      "body pain_144",
+      "ear pain_897",
+      "runny nose_42"
+    ],
+    "medicines": [
+      "Pantoprazole_1313",
+      "Amoxicillin_3714",
+      "Ondansetron_3796"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_174",
+    "symptoms": [
+      "watery eyes_469",
+      "body pain_702",
+      "fatigue_946",
+      "watery eyes_1191",
+      "low fever_1183"
+    ],
+    "medicines": [
+      "Diclofenac_4277",
+      "Levocetirizine_709",
+      "Omeprazole_306"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_175",
+    "symptoms": [
+      "muscle pain_276",
+      "nausea_89",
+      "nausea_570",
+      "itching_1224",
+      "diarrhea_175"
+    ],
+    "medicines": [
+      "Pantoprazole_3383",
+      "Diclofenac_3723",
+      "Ondansetron_5621"
+    ]
+  },
+  {
+    "name": "Diabetes_176",
+    "symptoms": [
+      "chest pain_1427",
+      "high fever_763",
+      "shortness of breath_332",
+      "nausea_811"
+    ],
+    "medicines": [
+      "Doxycycline_5700",
+      "Domperidone_4031",
+      "Levocetirizine_1802"
+    ]
+  },
+  {
+    "name": "Arthritis_177",
+    "symptoms": [
+      "chest pain_1099",
+      "cough_18",
+      "dry cough_1352"
+    ],
+    "medicines": [
+      "Cetirizine_3345",
+      "Salbutamol_2617",
+      "Domperidone_2623"
+    ]
+  },
+  {
+    "name": "Common Cold_178",
+    "symptoms": [
+      "dry cough_1139",
+      "diarrhea_688",
+      "high fever_716",
+      "runny nose_150",
+      "sneezing_1342",
+      "back pain_1373",
+      "cough_173"
+    ],
+    "medicines": [
+      "Losartan_1641",
+      "Losartan_5048",
+      "Omeprazole_4348"
+    ]
+  },
+  {
+    "name": "Tuberculosis_179",
+    "symptoms": [
+      "cough_1119",
+      "migraine_165",
+      "dry cough_492",
+      "fatigue_1351",
+      "migraine_1185",
+      "abdominal pain_1113"
+    ],
+    "medicines": [
+      "Pantoprazole_4828",
+      "Losartan_3352",
+      "Cefixime_5588"
+    ]
+  },
+  {
+    "name": "Asthma_180",
+    "symptoms": [
+      "dry cough_510",
+      "chills_343",
+      "cough_604"
+    ],
+    "medicines": [
+      "Cefixime_5627",
+      "Omeprazole_1786",
+      "Ondansetron_1701"
+    ]
+  },
+  {
+    "name": "Malaria_181",
+    "symptoms": [
+      "rash_509",
+      "abdominal pain_116",
+      "dizziness_498",
+      "dry cough_123",
+      "abdominal pain_1001"
+    ],
+    "medicines": [
+      "Montelukast_1973",
+      "Diclofenac_5839",
+      "Azithromycin_2101"
+    ]
+  },
+  {
+    "name": "Bronchitis_182",
+    "symptoms": [
+      "abdominal pain_1315",
+      "body pain_357",
+      "back pain_998",
+      "low fever_212",
+      "ear pain_327",
+      "nausea_1093",
+      "body pain_1092"
+    ],
+    "medicines": [
+      "Ibuprofen_2991",
+      "Paracetamol_2544",
+      "Omeprazole_1865"
+    ]
+  },
+  {
+    "name": "Dermatitis_183",
+    "symptoms": [
+      "rash_877",
+      "wet cough_979",
+      "chills_812",
+      "rash_200",
+      "chest pain_1411"
+    ],
+    "medicines": [
+      "Cetirizine_1932",
+      "Salbutamol_2767",
+      "Azithromycin_51"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_184",
+    "symptoms": [
+      "fatigue_824",
+      "watery eyes_469",
+      "loss of appetite_1300",
+      "muscle pain_1433",
+      "vomiting_400",
+      "vomiting_294",
+      "rash_200"
+    ],
+    "medicines": [
+      "Cetirizine_4571",
+      "Domperidone_4442",
+      "Losartan_5073"
+    ]
+  },
+  {
+    "name": "Migraine_185",
+    "symptoms": [
+      "low fever_618",
+      "sore throat_1325",
+      "watery eyes_1399",
+      "sneezing_146",
+      "fatigue_1253",
+      "high fever_339"
+    ],
+    "medicines": [
+      "Cefixime_150",
+      "Ondansetron_5520",
+      "Cefixime_150"
+    ]
+  },
+  {
+    "name": "Diabetes_186",
+    "symptoms": [
+      "abdominal pain_1262",
+      "itching_1011",
+      "rash_355",
+      "chills_697",
+      "ear pain_900",
+      "nausea_1360",
+      "runny nose_553"
+    ],
+    "medicines": [
+      "Paracetamol_1660",
+      "Ondansetron_1403",
+      "Paracetamol_1628"
+    ]
+  },
+  {
+    "name": "Tuberculosis_187",
+    "symptoms": [
+      "chills_481",
+      "abdominal pain_240",
+      "diarrhea_1058"
+    ],
+    "medicines": [
+      "Losartan_3470",
+      "Losartan_3262",
+      "Losartan_5702"
+    ]
+  },
+  {
+    "name": "Pneumonia_188",
+    "symptoms": [
+      "high fever_168",
+      "high fever_651",
+      "runny nose_455"
+    ],
+    "medicines": [
+      "Ondansetron_3519",
+      "Cetirizine_999",
+      "Montelukast_265"
+    ]
+  },
+  {
+    "name": "Malaria_189",
+    "symptoms": [
+      "migraine_846",
+      "migraine_997",
+      "headache_1490",
+      "abdominal pain_870",
+      "chest pain_389",
+      "burning urination_377",
+      "watery eyes_1393"
+    ],
+    "medicines": [
+      "Domperidone_1496",
+      "Doxycycline_587",
+      "Paracetamol_290"
+    ]
+  },
+  {
+    "name": "Influenza_190",
+    "symptoms": [
+      "dry cough_278",
+      "dry cough_704",
+      "fatigue_1351",
+      "watery eyes_568",
+      "burning urination_917",
+      "diarrhea_781",
+      "wet cough_610"
+    ],
+    "medicines": [
+      "Metformin_3693",
+      "Levocetirizine_5876",
+      "Ibuprofen_3606"
+    ]
+  },
+  {
+    "name": "Malaria_191",
+    "symptoms": [
+      "low fever_1347",
+      "burning urination_585",
+      "wet cough_258",
+      "low fever_461",
+      "abdominal pain_876",
+      "runny nose_756",
+      "watery eyes_1375"
+    ],
+    "medicines": [
+      "Paracetamol_290",
+      "Atorvastatin_4947",
+      "Azithromycin_1974"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_192",
+    "symptoms": [
+      "body pain_47",
+      "watery eyes_270",
+      "fatigue_307",
+      "rash_1083",
+      "dry cough_813",
+      "muscle pain_133",
+      "cough_1247"
+    ],
+    "medicines": [
+      "Ibuprofen_2266",
+      "Pantoprazole_2708",
+      "Cefixime_3822"
+    ]
+  },
+  {
+    "name": "Typhoid_193",
+    "symptoms": [
+      "burning urination_864",
+      "diarrhea_688",
+      "itching_486",
+      "itching_1484",
+      "muscle pain_1009",
+      "wet cough_1170",
+      "low fever_1229"
+    ],
+    "medicines": [
+      "Nitrofurantoin_5413",
+      "Nitrofurantoin_4383",
+      "Diclofenac_359"
+    ]
+  },
+  {
+    "name": "Viral Fever_194",
+    "symptoms": [
+      "fatigue_824",
+      "itching_945",
+      "low fever_927",
+      "runny nose_1421"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4319",
+      "Nitrofurantoin_5008",
+      "Amlodipine_1225"
+    ]
+  },
+  {
+    "name": "Sinusitis_195",
+    "symptoms": [
+      "vomiting_754",
+      "loss of appetite_1300",
+      "rash_1018",
+      "dizziness_736",
+      "sore throat_869",
+      "runny nose_922"
+    ],
+    "medicines": [
+      "Montelukast_5229",
+      "Nitrofurantoin_3189",
+      "Omeprazole_2983"
+    ]
+  },
+  {
+    "name": "Sinusitis_196",
+    "symptoms": [
+      "dizziness_849",
+      "wet cough_282",
+      "burning urination_1167"
+    ],
+    "medicines": [
+      "Cetirizine_4269",
+      "Metformin_5355",
+      "Levocetirizine_625"
+    ]
+  },
+  {
+    "name": "Asthma_197",
+    "symptoms": [
+      "muscle pain_914",
+      "ear pain_138",
+      "headache_369",
+      "chest pain_650",
+      "low fever_1284",
+      "shortness of breath_539"
+    ],
+    "medicines": [
+      "Diclofenac_2008",
+      "Diclofenac_5474",
+      "Cetirizine_2352"
+    ]
+  },
+  {
+    "name": "Hypertension_198",
+    "symptoms": [
+      "diarrhea_72",
+      "migraine_165",
+      "watery eyes_1399",
+      "chills_1436"
+    ],
+    "medicines": [
+      "Amlodipine_3089",
+      "Montelukast_3777",
+      "Metformin_1949"
+    ]
+  },
+  {
+    "name": "Bronchitis_199",
+    "symptoms": [
+      "sore throat_1277",
+      "body pain_601",
+      "watery eyes_1371",
+      "sore throat_1176",
+      "back pain_998",
+      "watery eyes_1353",
+      "wet cough_576"
+    ],
+    "medicines": [
+      "Paracetamol_3030",
+      "Azithromycin_3656",
+      "Paracetamol_1609"
+    ]
+  },
+  {
+    "name": "Asthma_200",
+    "symptoms": [
+      "burning urination_770",
+      "loss of appetite_128",
+      "dry cough_742"
+    ],
+    "medicines": [
+      "Cetirizine_2759",
+      "Amlodipine_1433",
+      "Ondansetron_592"
+    ]
+  },
+  {
+    "name": "Food Poisoning_201",
+    "symptoms": [
+      "migraine_1354",
+      "ear pain_364",
+      "chest pain_1086"
+    ],
+    "medicines": [
+      "Salbutamol_2109",
+      "Levocetirizine_5582",
+      "Cefixime_5171"
+    ]
+  },
+  {
+    "name": "Dermatitis_202",
+    "symptoms": [
+      "fever_725",
+      "fatigue_1131",
+      "rash_62",
+      "burning urination_157",
+      "sneezing_477",
+      "cough_982"
+    ],
+    "medicines": [
+      "Domperidone_2411",
+      "Montelukast_1106",
+      "Azithromycin_4234"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_203",
+    "symptoms": [
+      "chest pain_1062",
+      "dry cough_684",
+      "body pain_675",
+      "back pain_1256",
+      "migraine_1354",
+      "loss of appetite_1463",
+      "itching_1011"
+    ],
+    "medicines": [
+      "Paracetamol_3935",
+      "Ondansetron_2050",
+      "Ibuprofen_1035"
+    ]
+  },
+  {
+    "name": "Dermatitis_204",
+    "symptoms": [
+      "high fever_6",
+      "ear pain_1465",
+      "diarrhea_609",
+      "fatigue_1404",
+      "chills_1386",
+      "headache_1241",
+      "itching_486"
+    ],
+    "medicines": [
+      "Amlodipine_5625",
+      "Montelukast_3373",
+      "Ondansetron_1761"
+    ]
+  },
+  {
+    "name": "Sinusitis_205",
+    "symptoms": [
+      "shortness of breath_253",
+      "vomiting_542",
+      "shortness of breath_952",
+      "chills_1422"
+    ],
+    "medicines": [
+      "Salbutamol_4081",
+      "Levocetirizine_2826",
+      "Pantoprazole_3844"
+    ]
+  },
+  {
+    "name": "Diabetes_206",
+    "symptoms": [
+      "chills_575",
+      "shortness of breath_1249",
+      "watery eyes_898",
+      "fatigue_1081",
+      "headache_1172",
+      "runny nose_883"
+    ],
+    "medicines": [
+      "Cetirizine_3452",
+      "Cetirizine_3013",
+      "Cetirizine_3201"
+    ]
+  },
+  {
+    "name": "Typhoid_207",
+    "symptoms": [
+      "headache_1208",
+      "wet cough_215",
+      "shortness of breath_88"
+    ],
+    "medicines": [
+      "Ondansetron_1638",
+      "Levocetirizine_3622",
+      "Losartan_3737"
+    ]
+  },
+  {
+    "name": "Gastritis_208",
+    "symptoms": [
+      "muscle pain_835",
+      "headache_436",
+      "fever_889",
+      "cough_223",
+      "abdominal pain_11",
+      "chills_1402"
+    ],
+    "medicines": [
+      "Pantoprazole_1793",
+      "Omeprazole_5347",
+      "Pantoprazole_4926"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_209",
+    "symptoms": [
+      "cough_1021",
+      "muscle pain_884",
+      "sore throat_1344"
+    ],
+    "medicines": [
+      "Paracetamol_3392",
+      "Diclofenac_339",
+      "Cetirizine_4007"
+    ]
+  },
+  {
+    "name": "Arthritis_210",
+    "symptoms": [
+      "itching_264",
+      "loss of appetite_425",
+      "burning urination_1098",
+      "chest pain_105",
+      "fever_950",
+      "dizziness_706",
+      "body pain_720"
+    ],
+    "medicines": [
+      "Metformin_4478",
+      "Paracetamol_3252",
+      "Pantoprazole_2950"
+    ]
+  },
+  {
+    "name": "Migraine_211",
+    "symptoms": [
+      "runny nose_1381",
+      "runny nose_518",
+      "burning urination_1189",
+      "sneezing_916",
+      "fatigue_1291",
+      "sore throat_314"
+    ],
+    "medicines": [
+      "Metformin_2366",
+      "Montelukast_4916",
+      "Azithromycin_1965"
+    ]
+  },
+  {
+    "name": "Tuberculosis_212",
+    "symptoms": [
+      "frequent urination_53",
+      "fever_330",
+      "vomiting_321"
+    ],
+    "medicines": [
+      "Cetirizine_3547",
+      "Levocetirizine_4585",
+      "Cetirizine_819"
+    ]
+  },
+  {
+    "name": "Diabetes_213",
+    "symptoms": [
+      "dizziness_750",
+      "runny nose_1",
+      "abdominal pain_443"
+    ],
+    "medicines": [
+      "Pantoprazole_5993",
+      "Montelukast_510",
+      "Doxycycline_3214"
+    ]
+  },
+  {
+    "name": "Migraine_214",
+    "symptoms": [
+      "watery eyes_107",
+      "back pain_80",
+      "dry cough_589"
+    ],
+    "medicines": [
+      "Azithromycin_3368",
+      "Cetirizine_2469",
+      "Metformin_5575"
+    ]
+  },
+  {
+    "name": "Dermatitis_215",
+    "symptoms": [
+      "headache_331",
+      "burning urination_525",
+      "wet cough_258",
+      "sore throat_843"
+    ],
+    "medicines": [
+      "Doxycycline_1614",
+      "Ondansetron_2526",
+      "Paracetamol_3548"
+    ]
+  },
+  {
+    "name": "Malaria_216",
+    "symptoms": [
+      "dry cough_589",
+      "loss of appetite_536",
+      "high fever_1417"
+    ],
+    "medicines": [
+      "Azithromycin_2337",
+      "Ibuprofen_2258",
+      "Paracetamol_5244"
+    ]
+  },
+  {
+    "name": "Asthma_217",
+    "symptoms": [
+      "low fever_1123",
+      "shortness of breath_1173",
+      "sore throat_109",
+      "rash_935"
+    ],
+    "medicines": [
+      "Montelukast_1482",
+      "Azithromycin_4242",
+      "Omeprazole_315"
+    ]
+  },
+  {
+    "name": "Malaria_218",
+    "symptoms": [
+      "fatigue_1171",
+      "itching_264",
+      "muscle pain_992",
+      "burning urination_7",
+      "vomiting_426",
+      "dry cough_456"
+    ],
+    "medicines": [
+      "Diclofenac_2016",
+      "Paracetamol_2051",
+      "Doxycycline_1561"
+    ]
+  },
+  {
+    "name": "Hypertension_219",
+    "symptoms": [
+      "shortness of breath_555",
+      "frequent urination_1438",
+      "dry cough_25",
+      "cough_176",
+      "sore throat_1194"
+    ],
+    "medicines": [
+      "Salbutamol_236",
+      "Pantoprazole_4926",
+      "Cetirizine_5187"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_220",
+    "symptoms": [
+      "fatigue_824",
+      "rash_740",
+      "diarrhea_1180",
+      "low fever_201",
+      "runny nose_922"
+    ],
+    "medicines": [
+      "Losartan_4426",
+      "Levocetirizine_2770",
+      "Amoxicillin_3956"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_221",
+    "symptoms": [
+      "headache_472",
+      "watery eyes_1379",
+      "diarrhea_1290",
+      "chest pain_892",
+      "runny nose_104"
+    ],
+    "medicines": [
+      "Metformin_3916",
+      "Ibuprofen_4734",
+      "Montelukast_2966"
+    ]
+  },
+  {
+    "name": "Food Poisoning_222",
+    "symptoms": [
+      "watery eyes_1393",
+      "fatigue_1076",
+      "sneezing_1304",
+      "back pain_875",
+      "burning urination_157",
+      "back pain_1202",
+      "loss of appetite_943"
+    ],
+    "medicines": [
+      "Levocetirizine_1952",
+      "Nitrofurantoin_2764",
+      "Paracetamol_4623"
+    ]
+  },
+  {
+    "name": "Viral Fever_223",
+    "symptoms": [
+      "abdominal pain_828",
+      "chills_948",
+      "ear pain_1032",
+      "frequent urination_1464"
+    ],
+    "medicines": [
+      "Ibuprofen_563",
+      "Domperidone_4801",
+      "Doxycycline_583"
+    ]
+  },
+  {
+    "name": "Migraine_224",
+    "symptoms": [
+      "high fever_747",
+      "vomiting_400",
+      "high fever_340",
+      "sneezing_993",
+      "sneezing_230"
+    ],
+    "medicines": [
+      "Azithromycin_1383",
+      "Cetirizine_2064",
+      "Metformin_998"
+    ]
+  },
+  {
+    "name": "Influenza_225",
+    "symptoms": [
+      "fatigue_1000",
+      "rash_1279",
+      "frequent urination_471",
+      "burning urination_585"
+    ],
+    "medicines": [
+      "Azithromycin_3285",
+      "Amlodipine_1071",
+      "Azithromycin_4661"
+    ]
+  },
+  {
+    "name": "Sinusitis_226",
+    "symptoms": [
+      "shortness of breath_449",
+      "dry cough_123",
+      "joint pain_154"
+    ],
+    "medicines": [
+      "Amoxicillin_5999",
+      "Amlodipine_4151",
+      "Metformin_3682"
+    ]
+  },
+  {
+    "name": "Food Poisoning_227",
+    "symptoms": [
+      "nausea_395",
+      "fever_1033",
+      "cough_606",
+      "joint pain_1130",
+      "diarrhea_1286",
+      "diarrhea_936",
+      "shortness of breath_738"
+    ],
+    "medicines": [
+      "Amoxicillin_5812",
+      "Paracetamol_3599",
+      "Cetirizine_863"
+    ]
+  },
+  {
+    "name": "Diabetes_228",
+    "symptoms": [
+      "nausea_195",
+      "ear pain_545",
+      "cough_1144",
+      "sore throat_26",
+      "fever_1449",
+      "cough_1247"
+    ],
+    "medicines": [
+      "Salbutamol_4575",
+      "Amlodipine_3945",
+      "Amoxicillin_370"
+    ]
+  },
+  {
+    "name": "Migraine_229",
+    "symptoms": [
+      "itching_1484",
+      "rash_355",
+      "joint pain_1409",
+      "nausea_395",
+      "vomiting_1400"
+    ],
+    "medicines": [
+      "Domperidone_177",
+      "Ondansetron_2820",
+      "Azithromycin_4369"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_230",
+    "symptoms": [
+      "loss of appetite_806",
+      "ear pain_218",
+      "high fever_854",
+      "cough_1119",
+      "rash_1341"
+    ],
+    "medicines": [
+      "Doxycycline_1109",
+      "Diclofenac_1159",
+      "Cetirizine_5426"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_231",
+    "symptoms": [
+      "burning urination_310",
+      "body pain_574",
+      "headache_1204",
+      "watery eyes_546",
+      "migraine_274",
+      "runny nose_31"
+    ],
+    "medicines": [
+      "Metformin_4439",
+      "Cetirizine_4631",
+      "Amoxicillin_1915"
+    ]
+  },
+  {
+    "name": "Common Cold_232",
+    "symptoms": [
+      "vomiting_177",
+      "runny nose_756",
+      "headache_59",
+      "headache_1413",
+      "low fever_1273",
+      "wet cough_825"
+    ],
+    "medicines": [
+      "Ibuprofen_4700",
+      "Levocetirizine_3915",
+      "Ibuprofen_2658"
+    ]
+  },
+  {
+    "name": "Arthritis_233",
+    "symptoms": [
+      "chest pain_709",
+      "sore throat_397",
+      "cough_632",
+      "watery eyes_1487",
+      "muscle pain_1377",
+      "body pain_681"
+    ],
+    "medicines": [
+      "Pantoprazole_5082",
+      "Cefixime_3337",
+      "Atorvastatin_2633"
+    ]
+  },
+  {
+    "name": "Food Poisoning_234",
+    "symptoms": [
+      "itching_313",
+      "shortness of breath_660",
+      "ear pain_447",
+      "itching_137",
+      "abdominal pain_247",
+      "frequent urination_552",
+      "runny nose_1355"
+    ],
+    "medicines": [
+      "Levocetirizine_346",
+      "Omeprazole_41",
+      "Paracetamol_2830"
+    ]
+  },
+  {
+    "name": "Typhoid_235",
+    "symptoms": [
+      "vomiting_1477",
+      "nausea_136",
+      "joint pain_608",
+      "fatigue_1253"
+    ],
+    "medicines": [
+      "Cefixime_2696",
+      "Cefixime_548",
+      "Diclofenac_502"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_236",
+    "symptoms": [
+      "runny nose_231",
+      "ear pain_490",
+      "burning urination_795",
+      "fatigue_556",
+      "migraine_1270"
+    ],
+    "medicines": [
+      "Montelukast_2241",
+      "Paracetamol_1359",
+      "Nitrofurantoin_1051"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_237",
+    "symptoms": [
+      "rash_926",
+      "watery eyes_619",
+      "low fever_452",
+      "wet cough_219",
+      "sore throat_1492",
+      "vomiting_1179"
+    ],
+    "medicines": [
+      "Diclofenac_3886",
+      "Azithromycin_503",
+      "Cetirizine_1101"
+    ]
+  },
+  {
+    "name": "Malaria_238",
+    "symptoms": [
+      "body pain_548",
+      "dry cough_300",
+      "fatigue_547"
+    ],
+    "medicines": [
+      "Amlodipine_1408",
+      "Ondansetron_4634",
+      "Cefixime_410"
+    ]
+  },
+  {
+    "name": "Arthritis_239",
+    "symptoms": [
+      "low fever_578",
+      "wet cough_643",
+      "cough_729",
+      "runny nose_553",
+      "fever_475"
+    ],
+    "medicines": [
+      "Levocetirizine_5251",
+      "Salbutamol_5795",
+      "Amlodipine_2800"
+    ]
+  },
+  {
+    "name": "Influenza_240",
+    "symptoms": [
+      "nausea_478",
+      "sneezing_421",
+      "vomiting_1070",
+      "runny nose_1497"
+    ],
+    "medicines": [
+      "Paracetamol_5737",
+      "Domperidone_4321",
+      "Cetirizine_5467"
+    ]
+  },
+  {
+    "name": "Food Poisoning_241",
+    "symptoms": [
+      "runny nose_150",
+      "chest pain_1479",
+      "rash_1083",
+      "shortness of breath_1043",
+      "runny nose_280",
+      "ear pain_391"
+    ],
+    "medicines": [
+      "Montelukast_4030",
+      "Ondansetron_2170",
+      "Ibuprofen_4284"
+    ]
+  },
+  {
+    "name": "Dermatitis_242",
+    "symptoms": [
+      "high fever_87",
+      "ear pain_719",
+      "sneezing_1306",
+      "ear pain_1378",
+      "fever_1228",
+      "headache_1024",
+      "chills_481"
+    ],
+    "medicines": [
+      "Nitrofurantoin_1082",
+      "Pantoprazole_5437",
+      "Metformin_1180"
+    ]
+  },
+  {
+    "name": "Arthritis_243",
+    "symptoms": [
+      "itching_1358",
+      "chills_851",
+      "abdominal pain_511",
+      "ear pain_218",
+      "migraine_816",
+      "rash_935"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4657",
+      "Ibuprofen_460",
+      "Nitrofurantoin_1633"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_244",
+    "symptoms": [
+      "diarrhea_160",
+      "diarrhea_289",
+      "shortness of breath_746"
+    ],
+    "medicines": [
+      "Amoxicillin_4837",
+      "Paracetamol_50",
+      "Atorvastatin_2197"
+    ]
+  },
+  {
+    "name": "Food Poisoning_245",
+    "symptoms": [
+      "low fever_554",
+      "vomiting_177",
+      "wet cough_1410",
+      "sneezing_1452"
+    ],
+    "medicines": [
+      "Ibuprofen_5975",
+      "Ibuprofen_2715",
+      "Amoxicillin_3961"
+    ]
+  },
+  {
+    "name": "Viral Fever_246",
+    "symptoms": [
+      "fever_725",
+      "cough_516",
+      "chest pain_907",
+      "watery eyes_1051",
+      "abdominal pain_302",
+      "ear pain_829",
+      "nausea_409"
+    ],
+    "medicines": [
+      "Azithromycin_1070",
+      "Cetirizine_637",
+      "Amoxicillin_1845"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_247",
+    "symptoms": [
+      "dry cough_830",
+      "muscle pain_1280",
+      "diarrhea_792",
+      "dry cough_366",
+      "chills_913"
+    ],
+    "medicines": [
+      "Losartan_2854",
+      "Nitrofurantoin_4657",
+      "Amlodipine_2548"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_248",
+    "symptoms": [
+      "rash_960",
+      "fever_889",
+      "sneezing_421",
+      "vomiting_1070",
+      "diarrhea_362",
+      "chills_1422"
+    ],
+    "medicines": [
+      "Amlodipine_5219",
+      "Diclofenac_4497",
+      "Domperidone_1428"
+    ]
+  },
+  {
+    "name": "Influenza_249",
+    "symptoms": [
+      "fatigue_743",
+      "wet cough_286",
+      "low fever_921",
+      "wet cough_610",
+      "wet cough_979"
+    ],
+    "medicines": [
+      "Ibuprofen_4930",
+      "Levocetirizine_644",
+      "Amlodipine_7"
+    ]
+  },
+  {
+    "name": "Diabetes_250",
+    "symptoms": [
+      "runny nose_1355",
+      "watery eyes_619",
+      "watery eyes_522",
+      "low fever_832",
+      "runny nose_902",
+      "cough_1245",
+      "dry cough_1211"
+    ],
+    "medicines": [
+      "Cefixime_4729",
+      "Pantoprazole_1793",
+      "Salbutamol_735"
+    ]
+  },
+  {
+    "name": "Influenza_251",
+    "symptoms": [
+      "dry cough_1003",
+      "cough_1493",
+      "diarrhea_838",
+      "fever_1437",
+      "sneezing_972",
+      "high fever_12"
+    ],
+    "medicines": [
+      "Ondansetron_3971",
+      "Amlodipine_1071",
+      "Diclofenac_3723"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_252",
+    "symptoms": [
+      "joint pain_114",
+      "dizziness_584",
+      "back pain_16",
+      "joint pain_910"
+    ],
+    "medicines": [
+      "Ibuprofen_4956",
+      "Azithromycin_1730",
+      "Amoxicillin_2762"
+    ]
+  },
+  {
+    "name": "Arthritis_253",
+    "symptoms": [
+      "wet cough_273",
+      "watery eyes_110",
+      "watery eyes_284",
+      "diarrhea_634",
+      "joint pain_75"
+    ],
+    "medicines": [
+      "Montelukast_182",
+      "Metformin_4439",
+      "Montelukast_4678"
+    ]
+  },
+  {
+    "name": "Tuberculosis_254",
+    "symptoms": [
+      "body pain_1019",
+      "body pain_420",
+      "shortness of breath_81",
+      "cough_775",
+      "cough_1144"
+    ],
+    "medicines": [
+      "Amlodipine_3051",
+      "Nitrofurantoin_2997",
+      "Amoxicillin_1909"
+    ]
+  },
+  {
+    "name": "Gastritis_255",
+    "symptoms": [
+      "migraine_274",
+      "back pain_1202",
+      "ear pain_594",
+      "diarrhea_337",
+      "chills_851",
+      "low fever_9"
+    ],
+    "medicines": [
+      "Cetirizine_2910",
+      "Omeprazole_464",
+      "Levocetirizine_2660"
+    ]
+  },
+  {
+    "name": "Typhoid_256",
+    "symptoms": [
+      "fever_950",
+      "body pain_420",
+      "diarrhea_1060",
+      "low fever_1097"
+    ],
+    "medicines": [
+      "Paracetamol_5843",
+      "Paracetamol_5466",
+      "Domperidone_694"
+    ]
+  },
+  {
+    "name": "Viral Fever_257",
+    "symptoms": [
+      "migraine_165",
+      "dry cough_298",
+      "cough_793"
+    ],
+    "medicines": [
+      "Ibuprofen_5262",
+      "Montelukast_5357",
+      "Doxycycline_5956"
+    ]
+  },
+  {
+    "name": "Tuberculosis_258",
+    "symptoms": [
+      "wet cough_282",
+      "diarrhea_1290",
+      "watery eyes_1495",
+      "high fever_183",
+      "muscle pain_758",
+      "dizziness_316"
+    ],
+    "medicines": [
+      "Nitrofurantoin_283",
+      "Losartan_1487",
+      "Amlodipine_2181"
+    ]
+  },
+  {
+    "name": "Influenza_259",
+    "symptoms": [
+      "cough_376",
+      "chills_322",
+      "burning urination_917"
+    ],
+    "medicines": [
+      "Amlodipine_3638",
+      "Cetirizine_1039",
+      "Cefixime_640"
+    ]
+  },
+  {
+    "name": "Gastritis_260",
+    "symptoms": [
+      "diarrhea_890",
+      "body pain_1151",
+      "muscle pain_835",
+      "fever_1168",
+      "runny nose_627",
+      "watery eyes_439"
+    ],
+    "medicines": [
+      "Pantoprazole_3734",
+      "Montelukast_1482",
+      "Amlodipine_5330"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_261",
+    "symptoms": [
+      "itching_334",
+      "rash_476",
+      "rash_1199",
+      "ear pain_232"
+    ],
+    "medicines": [
+      "Atorvastatin_3644",
+      "Levocetirizine_917",
+      "Paracetamol_3969"
+    ]
+  },
+  {
+    "name": "Gastritis_262",
+    "symptoms": [
+      "chills_667",
+      "shortness of breath_1249",
+      "low fever_201"
+    ],
+    "medicines": [
+      "Paracetamol_1115",
+      "Domperidone_3166",
+      "Doxycycline_5364"
+    ]
+  },
+  {
+    "name": "Migraine_263",
+    "symptoms": [
+      "chest pain_639",
+      "high fever_1248",
+      "nausea_785",
+      "fatigue_547",
+      "loss of appetite_1104"
+    ],
+    "medicines": [
+      "Nitrofurantoin_180",
+      "Atorvastatin_4925",
+      "Cetirizine_470"
+    ]
+  },
+  {
+    "name": "Migraine_264",
+    "symptoms": [
+      "high fever_1455",
+      "rash_664",
+      "loss of appetite_268",
+      "itching_717",
+      "headache_671"
+    ],
+    "medicines": [
+      "Diclofenac_1512",
+      "Montelukast_5179",
+      "Pantoprazole_5164"
+    ]
+  },
+  {
+    "name": "Viral Fever_265",
+    "symptoms": [
+      "chills_214",
+      "body pain_601",
+      "frequent urination_53",
+      "sneezing_477",
+      "high fever_641"
+    ],
+    "medicines": [
+      "Azithromycin_2262",
+      "Diclofenac_1103",
+      "Pantoprazole_2254"
+    ]
+  },
+  {
+    "name": "Food Poisoning_266",
+    "symptoms": [
+      "cough_624",
+      "back pain_17",
+      "body pain_1048",
+      "joint pain_225",
+      "diarrhea_96"
+    ],
+    "medicines": [
+      "Amlodipine_5666",
+      "Nitrofurantoin_898",
+      "Cefixime_5611"
+    ]
+  },
+  {
+    "name": "Malaria_267",
+    "symptoms": [
+      "loss of appetite_957",
+      "headache_435",
+      "diarrhea_43",
+      "high fever_361",
+      "itching_748",
+      "ear pain_573",
+      "migraine_1357"
+    ],
+    "medicines": [
+      "Paracetamol_196",
+      "Amoxicillin_414",
+      "Ibuprofen_2341"
+    ]
+  },
+  {
+    "name": "Diabetes_268",
+    "symptoms": [
+      "sneezing_863",
+      "nausea_1451",
+      "itching_533",
+      "watery eyes_284",
+      "diarrhea_1180",
+      "diarrhea_160"
+    ],
+    "medicines": [
+      "Levocetirizine_4079",
+      "Azithromycin_3323",
+      "Azithromycin_3532"
+    ]
+  },
+  {
+    "name": "Viral Fever_269",
+    "symptoms": [
+      "headache_1413",
+      "high fever_361",
+      "headache_331"
+    ],
+    "medicines": [
+      "Levocetirizine_1749",
+      "Pantoprazole_2028",
+      "Cetirizine_4125"
+    ]
+  },
+  {
+    "name": "Gastritis_270",
+    "symptoms": [
+      "muscle pain_112",
+      "abdominal pain_1195",
+      "fever_645",
+      "watery eyes_1071",
+      "ear pain_327",
+      "runny nose_968"
+    ],
+    "medicines": [
+      "Omeprazole_1172",
+      "Ibuprofen_5517",
+      "Nitrofurantoin_1420"
+    ]
+  },
+  {
+    "name": "Food Poisoning_271",
+    "symptoms": [
+      "fever_950",
+      "low fever_554",
+      "sneezing_351",
+      "chest pain_1160",
+      "runny nose_104",
+      "abdominal pain_976"
+    ],
+    "medicines": [
+      "Cetirizine_664",
+      "Cefixime_1536",
+      "Diclofenac_3482"
+    ]
+  },
+  {
+    "name": "Malaria_272",
+    "symptoms": [
+      "sneezing_182",
+      "chest pain_118",
+      "migraine_227",
+      "low fever_142",
+      "burning urination_1167",
+      "joint pain_225"
+    ],
+    "medicines": [
+      "Omeprazole_1613",
+      "Paracetamol_2911",
+      "Atorvastatin_4754"
+    ]
+  },
+  {
+    "name": "Gastritis_273",
+    "symptoms": [
+      "dizziness_393",
+      "headache_636",
+      "rash_217",
+      "itching_434"
+    ],
+    "medicines": [
+      "Cetirizine_2815",
+      "Nitrofurantoin_1996",
+      "Atorvastatin_5557"
+    ]
+  },
+  {
+    "name": "Influenza_274",
+    "symptoms": [
+      "runny nose_958",
+      "chest pain_787",
+      "sore throat_1311",
+      "low fever_676",
+      "back pain_1256",
+      "rash_1124"
+    ],
+    "medicines": [
+      "Omeprazole_2819",
+      "Atorvastatin_1220",
+      "Ondansetron_3765"
+    ]
+  },
+  {
+    "name": "Arthritis_275",
+    "symptoms": [
+      "watery eyes_622",
+      "ear pain_900",
+      "ear pain_981",
+      "low fever_908",
+      "diarrhea_1180",
+      "cough_1144",
+      "body pain_338"
+    ],
+    "medicines": [
+      "Doxycycline_5617",
+      "Azithromycin_594",
+      "Metformin_3928"
+    ]
+  },
+  {
+    "name": "Common Cold_276",
+    "symptoms": [
+      "vomiting_342",
+      "dizziness_963",
+      "watery eyes_1371",
+      "loss of appetite_912"
+    ],
+    "medicines": [
+      "Ibuprofen_4516",
+      "Ibuprofen_5523",
+      "Domperidone_2077"
+    ]
+  },
+  {
+    "name": "Typhoid_277",
+    "symptoms": [
+      "wet cough_122",
+      "headache_1442",
+      "itching_934"
+    ],
+    "medicines": [
+      "Atorvastatin_2121",
+      "Domperidone_4137",
+      "Nitrofurantoin_335"
+    ]
+  },
+  {
+    "name": "Pneumonia_278",
+    "symptoms": [
+      "itching_408",
+      "fever_1168",
+      "vomiting_1398",
+      "vomiting_294",
+      "diarrhea_160"
+    ],
+    "medicines": [
+      "Metformin_2397",
+      "Amoxicillin_368",
+      "Doxycycline_338"
+    ]
+  },
+  {
+    "name": "Sinusitis_279",
+    "symptoms": [
+      "sneezing_607",
+      "muscle pain_1117",
+      "itching_264",
+      "ear pain_1166",
+      "high fever_1135",
+      "dry cough_510"
+    ],
+    "medicines": [
+      "Metformin_765",
+      "Omeprazole_4260",
+      "Paracetamol_507"
+    ]
+  },
+  {
+    "name": "Gastritis_280",
+    "symptoms": [
+      "ear pain_364",
+      "loss of appetite_199",
+      "chest pain_709",
+      "itching_486",
+      "headache_1204",
+      "joint pain_1212",
+      "low fever_927"
+    ],
+    "medicines": [
+      "Ondansetron_4409",
+      "Paracetamol_4554",
+      "Salbutamol_5846"
+    ]
+  },
+  {
+    "name": "Influenza_281",
+    "symptoms": [
+      "headache_126",
+      "dizziness_708",
+      "muscle pain_835",
+      "rash_740",
+      "cough_1441",
+      "joint pain_1314",
+      "muscle pain_992"
+    ],
+    "medicines": [
+      "Omeprazole_677",
+      "Metformin_3068",
+      "Domperidone_284"
+    ]
+  },
+  {
+    "name": "Viral Fever_282",
+    "symptoms": [
+      "high fever_1141",
+      "watery eyes_384",
+      "diarrhea_1058"
+    ],
+    "medicines": [
+      "Cetirizine_899",
+      "Diclofenac_84",
+      "Cefixime_4883"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_283",
+    "symptoms": [
+      "low fever_614",
+      "high fever_340",
+      "muscle pain_1425",
+      "migraine_919"
+    ],
+    "medicines": [
+      "Azithromycin_1730",
+      "Domperidone_938",
+      "Losartan_5654"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_284",
+    "symptoms": [
+      "nausea_1008",
+      "sore throat_1295",
+      "rash_189",
+      "low fever_618",
+      "frequent urination_1464",
+      "burning urination_377"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3025",
+      "Cetirizine_3763",
+      "Levocetirizine_3628"
+    ]
+  },
+  {
+    "name": "Diabetes_285",
+    "symptoms": [
+      "headache_1126",
+      "runny nose_1497",
+      "fatigue_306",
+      "fatigue_484",
+      "rash_1341",
+      "burning urination_1337",
+      "vomiting_294"
+    ],
+    "medicines": [
+      "Paracetamol_5253",
+      "Cefixime_5655",
+      "Amlodipine_4860"
+    ]
+  },
+  {
+    "name": "Sinusitis_286",
+    "symptoms": [
+      "body pain_179",
+      "diarrhea_83",
+      "ear pain_1465",
+      "back pain_751",
+      "muscle pain_1117"
+    ],
+    "medicines": [
+      "Paracetamol_5292",
+      "Amoxicillin_5430",
+      "Metformin_543"
+    ]
+  },
+  {
+    "name": "Dermatitis_287",
+    "symptoms": [
+      "runny nose_861",
+      "loss of appetite_943",
+      "nausea_136",
+      "dry cough_298"
+    ],
+    "medicines": [
+      "Amoxicillin_5349",
+      "Metformin_4882",
+      "Pantoprazole_35"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_288",
+    "symptoms": [
+      "abdominal pain_1309",
+      "watery eyes_441",
+      "high fever_747"
+    ],
+    "medicines": [
+      "Nitrofurantoin_5126",
+      "Doxycycline_1149",
+      "Atorvastatin_3615"
+    ]
+  },
+  {
+    "name": "Bronchitis_289",
+    "symptoms": [
+      "frequent urination_471",
+      "abdominal pain_11",
+      "frequent urination_479",
+      "abdominal pain_247",
+      "frequent urination_53",
+      "chills_481"
+    ],
+    "medicines": [
+      "Atorvastatin_4832",
+      "Montelukast_700",
+      "Nitrofurantoin_4486"
+    ]
+  },
+  {
+    "name": "Hypertension_290",
+    "symptoms": [
+      "runny nose_485",
+      "high fever_41",
+      "cough_233",
+      "body pain_1287",
+      "burning urination_377"
+    ],
+    "medicines": [
+      "Montelukast_4701",
+      "Metformin_1617",
+      "Nitrofurantoin_4017"
+    ]
+  },
+  {
+    "name": "Influenza_291",
+    "symptoms": [
+      "dry cough_967",
+      "fatigue_1291",
+      "runny nose_1041",
+      "joint pain_595"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3077",
+      "Amlodipine_5330",
+      "Cetirizine_2318"
+    ]
+  },
+  {
+    "name": "Common Cold_292",
+    "symptoms": [
+      "sore throat_1169",
+      "rash_543",
+      "runny nose_1285",
+      "rash_1303",
+      "ear pain_661",
+      "headache_807"
+    ],
+    "medicines": [
+      "Paracetamol_5315",
+      "Omeprazole_1423",
+      "Doxycycline_4756"
+    ]
+  },
+  {
+    "name": "Malaria_293",
+    "symptoms": [
+      "wet cough_566",
+      "runny nose_1265",
+      "fever_190",
+      "low fever_417",
+      "muscle pain_881",
+      "fatigue_759"
+    ],
+    "medicines": [
+      "Cetirizine_2189",
+      "Pantoprazole_1906",
+      "Cetirizine_3452"
+    ]
+  },
+  {
+    "name": "Dermatitis_294",
+    "symptoms": [
+      "nausea_1044",
+      "low fever_1313",
+      "frequent urination_1078",
+      "watery eyes_1071",
+      "body pain_755",
+      "muscle pain_1200"
+    ],
+    "medicines": [
+      "Amlodipine_3273",
+      "Levocetirizine_2478",
+      "Omeprazole_5778"
+    ]
+  },
+  {
+    "name": "Arthritis_295",
+    "symptoms": [
+      "dry cough_704",
+      "back pain_1042",
+      "back pain_474",
+      "vomiting_321",
+      "headache_654",
+      "back pain_875"
+    ],
+    "medicines": [
+      "Montelukast_3426",
+      "Diclofenac_4491",
+      "Pantoprazole_2028"
+    ]
+  },
+  {
+    "name": "Tuberculosis_296",
+    "symptoms": [
+      "chest pain_650",
+      "fever_344",
+      "sneezing_1069"
+    ],
+    "medicines": [
+      "Ondansetron_3014",
+      "Montelukast_987",
+      "Pantoprazole_4473"
+    ]
+  },
+  {
+    "name": "Tuberculosis_297",
+    "symptoms": [
+      "high fever_374",
+      "sneezing_55",
+      "runny nose_530",
+      "runny nose_1216",
+      "ear pain_187",
+      "low fever_894",
+      "itching_1462"
+    ],
+    "medicines": [
+      "Doxycycline_1690",
+      "Losartan_1307",
+      "Ibuprofen_3895"
+    ]
+  },
+  {
+    "name": "Viral Fever_298",
+    "symptoms": [
+      "diarrhea_1196",
+      "ear pain_900",
+      "wet cough_1320",
+      "sneezing_28",
+      "wet cough_273",
+      "body pain_281"
+    ],
+    "medicines": [
+      "Nitrofurantoin_4017",
+      "Paracetamol_1455",
+      "Omeprazole_4743"
+    ]
+  },
+  {
+    "name": "Migraine_299",
+    "symptoms": [
+      "itching_1224",
+      "vomiting_1181",
+      "burning urination_413",
+      "chills_214",
+      "muscle pain_82"
+    ],
+    "medicines": [
+      "Atorvastatin_5985",
+      "Paracetamol_1062",
+      "Domperidone_1496"
+    ]
+  },
+  {
+    "name": "Migraine_300",
+    "symptoms": [
+      "wet cough_566",
+      "rash_1282",
+      "watery eyes_13",
+      "high fever_46",
+      "body pain_84",
+      "sneezing_1458"
+    ],
+    "medicines": [
+      "Omeprazole_273",
+      "Paracetamol_2911",
+      "Salbutamol_1096"
+    ]
+  },
+  {
+    "name": "Sinusitis_301",
+    "symptoms": [
+      "rash_1065",
+      "joint pain_154",
+      "dry cough_123",
+      "dizziness_849"
+    ],
+    "medicines": [
+      "Amlodipine_3509",
+      "Cetirizine_316",
+      "Pantoprazole_5970"
+    ]
+  },
+  {
+    "name": "Malaria_302",
+    "symptoms": [
+      "chest pain_1474",
+      "headache_59",
+      "wet cough_593",
+      "burning urination_987"
+    ],
+    "medicines": [
+      "Pantoprazole_4286",
+      "Diclofenac_4715",
+      "Ibuprofen_1387"
+    ]
+  },
+  {
+    "name": "Malaria_303",
+    "symptoms": [
+      "watery eyes_893",
+      "chest pain_1062",
+      "migraine_1095"
+    ],
+    "medicines": [
+      "Losartan_5243",
+      "Cefixime_123",
+      "Amoxicillin_2230"
+    ]
+  },
+  {
+    "name": "Hypertension_304",
+    "symptoms": [
+      "abdominal pain_956",
+      "vomiting_1070",
+      "frequent urination_722",
+      "burning urination_379",
+      "runny nose_518",
+      "wet cough_979"
+    ],
+    "medicines": [
+      "Doxycycline_854",
+      "Atorvastatin_4764",
+      "Cefixime_1200"
+    ]
+  },
+  {
+    "name": "Dermatitis_305",
+    "symptoms": [
+      "loss of appetite_1082",
+      "joint pain_1314",
+      "shortness of breath_303",
+      "body pain_241"
+    ],
+    "medicines": [
+      "Losartan_4438",
+      "Cetirizine_4249",
+      "Doxycycline_5617"
+    ]
+  },
+  {
+    "name": "Common Cold_306",
+    "symptoms": [
+      "burning urination_525",
+      "back pain_494",
+      "high fever_63",
+      "vomiting_153",
+      "high fever_686"
+    ],
+    "medicines": [
+      "Pantoprazole_1836",
+      "Domperidone_3334",
+      "Cetirizine_5949"
+    ]
+  },
+  {
+    "name": "Diabetes_307",
+    "symptoms": [
+      "headache_403",
+      "sneezing_221",
+      "fever_194",
+      "shortness of breath_1339",
+      "migraine_919"
+    ],
+    "medicines": [
+      "Ibuprofen_364",
+      "Cetirizine_4008",
+      "Cefixime_1137"
+    ]
+  },
+  {
+    "name": "Sinusitis_308",
+    "symptoms": [
+      "dry cough_510",
+      "migraine_274",
+      "itching_137",
+      "sore throat_843",
+      "nausea_629",
+      "high fever_763",
+      "body pain_711"
+    ],
+    "medicines": [
+      "Ondansetron_5661",
+      "Montelukast_2354",
+      "Paracetamol_4833"
+    ]
+  },
+  {
+    "name": "Common Cold_309",
+    "symptoms": [
+      "high fever_567",
+      "fever_1228",
+      "low fever_130",
+      "body pain_144",
+      "rash_1124",
+      "body pain_1366"
+    ],
+    "medicines": [
+      "Atorvastatin_5419",
+      "Paracetamol_4866",
+      "Atorvastatin_4929"
+    ]
+  },
+  {
+    "name": "Bronchitis_310",
+    "symptoms": [
+      "abdominal pain_430",
+      "watery eyes_180",
+      "diarrhea_1264",
+      "dizziness_198",
+      "body pain_755",
+      "dizziness_1333"
+    ],
+    "medicines": [
+      "Azithromycin_5369",
+      "Losartan_3200",
+      "Paracetamol_5644"
+    ]
+  },
+  {
+    "name": "Typhoid_311",
+    "symptoms": [
+      "shortness of breath_660",
+      "fever_422",
+      "fatigue_306",
+      "muscle pain_385",
+      "muscle pain_276"
+    ],
+    "medicines": [
+      "Nitrofurantoin_2122",
+      "Amlodipine_2595",
+      "Cefixime_1697"
+    ]
+  },
+  {
+    "name": "Arthritis_312",
+    "symptoms": [
+      "chills_667",
+      "itching_36",
+      "fatigue_1334",
+      "vomiting_1398",
+      "burning urination_705"
+    ],
+    "medicines": [
+      "Cetirizine_2871",
+      "Metformin_2728",
+      "Ondansetron_3531"
+    ]
+  },
+  {
+    "name": "Gastritis_313",
+    "symptoms": [
+      "cough_768",
+      "sore throat_1344",
+      "migraine_1459",
+      "watery eyes_1371",
+      "cough_606",
+      "ear pain_44"
+    ],
+    "medicines": [
+      "Diclofenac_2883",
+      "Ondansetron_3742",
+      "Paracetamol_4417"
+    ]
+  },
+  {
+    "name": "Migraine_314",
+    "symptoms": [
+      "runny nose_669",
+      "burning urination_293",
+      "joint pain_1130"
+    ],
+    "medicines": [
+      "Omeprazole_1498",
+      "Domperidone_4188",
+      "Paracetamol_5178"
+    ]
+  },
+  {
+    "name": "Asthma_315",
+    "symptoms": [
+      "rash_62",
+      "sneezing_1439",
+      "dizziness_1190"
+    ],
+    "medicines": [
+      "Metformin_4532",
+      "Montelukast_987",
+      "Salbutamol_3331"
+    ]
+  },
+  {
+    "name": "Gastritis_316",
+    "symptoms": [
+      "vomiting_1289",
+      "cough_596",
+      "chest pain_389",
+      "vomiting_1400",
+      "dry cough_523"
+    ],
+    "medicines": [
+      "Salbutamol_3466",
+      "Cetirizine_1174",
+      "Cetirizine_4562"
+    ]
+  },
+  {
+    "name": "Food Poisoning_317",
+    "symptoms": [
+      "vomiting_1398",
+      "abdominal pain_329",
+      "wet cough_1114",
+      "headache_654",
+      "fatigue_1171"
+    ],
+    "medicines": [
+      "Ondansetron_2624",
+      "Atorvastatin_5033",
+      "Amoxicillin_2758"
+    ]
+  },
+  {
+    "name": "Bronchitis_318",
+    "symptoms": [
+      "loss of appetite_943",
+      "vomiting_57",
+      "ear pain_115",
+      "sneezing_1274",
+      "migraine_1185"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3575",
+      "Losartan_4761",
+      "Levocetirizine_884"
+    ]
+  },
+  {
+    "name": "Influenza_319",
+    "symptoms": [
+      "sore throat_271",
+      "migraine_833",
+      "wet cough_1046",
+      "sneezing_239",
+      "dizziness_229",
+      "back pain_406",
+      "nausea_464"
+    ],
+    "medicines": [
+      "Cefixime_1200",
+      "Nitrofurantoin_5774",
+      "Metformin_173"
+    ]
+  },
+  {
+    "name": "Bronchitis_320",
+    "symptoms": [
+      "vomiting_1477",
+      "wet cough_1447",
+      "ear pain_501",
+      "rash_355",
+      "runny nose_1216",
+      "high fever_1227"
+    ],
+    "medicines": [
+      "Domperidone_245",
+      "Pantoprazole_3616",
+      "Montelukast_152"
+    ]
+  },
+  {
+    "name": "Typhoid_321",
+    "symptoms": [
+      "nausea_570",
+      "diarrhea_1290",
+      "nausea_395",
+      "chest pain_1476",
+      "migraine_816",
+      "dry cough_1416",
+      "ear pain_981"
+    ],
+    "medicines": [
+      "Montelukast_4009",
+      "Nitrofurantoin_1546",
+      "Domperidone_3661"
+    ]
+  },
+  {
+    "name": "Asthma_322",
+    "symptoms": [
+      "itching_745",
+      "chills_948",
+      "shortness of breath_1173",
+      "dry cough_1395",
+      "rash_509",
+      "chills_1469"
+    ],
+    "medicines": [
+      "Azithromycin_3291",
+      "Losartan_5060",
+      "Nitrofurantoin_4528"
+    ]
+  },
+  {
+    "name": "Gastritis_323",
+    "symptoms": [
+      "sneezing_1458",
+      "chest pain_1160",
+      "nausea_1100",
+      "body pain_685",
+      "muscle pain_774",
+      "chest pain_1029"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3728",
+      "Diclofenac_1570",
+      "Losartan_5901"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_324",
+    "symptoms": [
+      "dry cough_1395",
+      "abdominal pain_870",
+      "high fever_514"
+    ],
+    "medicines": [
+      "Amoxicillin_4299",
+      "Azithromycin_1129",
+      "Cefixime_3264"
+    ]
+  },
+  {
+    "name": "Dermatitis_325",
+    "symptoms": [
+      "chest pain_272",
+      "itching_771",
+      "nausea_1161",
+      "dry cough_531"
+    ],
+    "medicines": [
+      "Paracetamol_1484",
+      "Azithromycin_4254",
+      "Amoxicillin_501"
+    ]
+  },
+  {
+    "name": "Typhoid_326",
+    "symptoms": [
+      "migraine_61",
+      "frequent urination_24",
+      "watery eyes_1140",
+      "chest pain_1479",
+      "chest pain_951",
+      "rash_1225"
+    ],
+    "medicines": [
+      "Diclofenac_4576",
+      "Cetirizine_1397",
+      "Atorvastatin_992"
+    ]
+  },
+  {
+    "name": "Hypertension_327",
+    "symptoms": [
+      "loss of appetite_536",
+      "wet cough_526",
+      "migraine_446",
+      "wet cough_566",
+      "fatigue_743",
+      "sore throat_109",
+      "ear pain_1166"
+    ],
+    "medicines": [
+      "Levocetirizine_1853",
+      "Cetirizine_3429",
+      "Amlodipine_5330"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_328",
+    "symptoms": [
+      "ear pain_928",
+      "runny nose_1010",
+      "headache_392"
+    ],
+    "medicines": [
+      "Salbutamol_246",
+      "Omeprazole_5422",
+      "Levocetirizine_1151"
+    ]
+  },
+  {
+    "name": "Arthritis_329",
+    "symptoms": [
+      "body pain_779",
+      "dizziness_963",
+      "ear pain_1378",
+      "sneezing_577",
+      "wet cough_1396"
+    ],
+    "medicines": [
+      "Azithromycin_2147",
+      "Amoxicillin_2954",
+      "Cefixime_5610"
+    ]
+  },
+  {
+    "name": "Sinusitis_330",
+    "symptoms": [
+      "vomiting_342",
+      "sore throat_1277",
+      "dry cough_1133",
+      "abdominal pain_302",
+      "runny nose_1299",
+      "joint pain_1163"
+    ],
+    "medicines": [
+      "Atorvastatin_976",
+      "Metformin_4349",
+      "Amlodipine_5220"
+    ]
+  },
+  {
+    "name": "Tuberculosis_331",
+    "symptoms": [
+      "muscle pain_881",
+      "rash_543",
+      "ear pain_897"
+    ],
+    "medicines": [
+      "Metformin_2397",
+      "Azithromycin_2112",
+      "Doxycycline_1466"
+    ]
+  },
+  {
+    "name": "Common Cold_332",
+    "symptoms": [
+      "body pain_601",
+      "vomiting_22",
+      "chest pain_691"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3481",
+      "Metformin_3191",
+      "Losartan_2212"
+    ]
+  },
+  {
+    "name": "Hypertension_333",
+    "symptoms": [
+      "wet cough_1496",
+      "itching_745",
+      "sore throat_695",
+      "ear pain_1466",
+      "dizziness_590",
+      "fatigue_1334"
+    ],
+    "medicines": [
+      "Losartan_860",
+      "Atorvastatin_3845",
+      "Nitrofurantoin_5774"
+    ]
+  },
+  {
+    "name": "Pneumonia_334",
+    "symptoms": [
+      "sore throat_287",
+      "shortness of breath_1173",
+      "watery eyes_734"
+    ],
+    "medicines": [
+      "Omeprazole_2406",
+      "Paracetamol_2851",
+      "Azithromycin_5081"
+    ]
+  },
+  {
+    "name": "Typhoid_335",
+    "symptoms": [
+      "frequent urination_1380",
+      "sore throat_1176",
+      "joint pain_75"
+    ],
+    "medicines": [
+      "Pantoprazole_262",
+      "Paracetamol_3290",
+      "Doxycycline_532"
+    ]
+  },
+  {
+    "name": "Dermatitis_336",
+    "symptoms": [
+      "chest pain_1099",
+      "nausea_1362",
+      "migraine_515",
+      "vomiting_1477"
+    ],
+    "medicines": [
+      "Atorvastatin_4262",
+      "Nitrofurantoin_5021",
+      "Atorvastatin_2033"
+    ]
+  },
+  {
+    "name": "Gastritis_337",
+    "symptoms": [
+      "vomiting_737",
+      "vomiting_432",
+      "sneezing_1306"
+    ],
+    "medicines": [
+      "Paracetamol_4848",
+      "Paracetamol_2047",
+      "Salbutamol_5432"
+    ]
+  },
+  {
+    "name": "Migraine_338",
+    "symptoms": [
+      "body pain_144",
+      "vomiting_815",
+      "shortness of breath_820"
+    ],
+    "medicines": [
+      "Pantoprazole_472",
+      "Domperidone_3585",
+      "Metformin_2443"
+    ]
+  },
+  {
+    "name": "Gastritis_339",
+    "symptoms": [
+      "dizziness_1383",
+      "loss of appetite_495",
+      "itching_99",
+      "sore throat_1311",
+      "muscle pain_914",
+      "muscle pain_881"
+    ],
+    "medicines": [
+      "Levocetirizine_381",
+      "Cefixime_97",
+      "Levocetirizine_5718"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_340",
+    "symptoms": [
+      "vomiting_1289",
+      "fatigue_1334",
+      "headache_435",
+      "body pain_1048",
+      "diarrhea_890",
+      "vomiting_1181",
+      "fatigue_125"
+    ],
+    "medicines": [
+      "Montelukast_378",
+      "Ondansetron_2913",
+      "Cefixime_2842"
+    ]
+  },
+  {
+    "name": "Pneumonia_341",
+    "symptoms": [
+      "itching_1203",
+      "dry cough_1211",
+      "migraine_1338",
+      "abdominal pain_419",
+      "runny nose_1488",
+      "sneezing_1440",
+      "dry cough_848"
+    ],
+    "medicines": [
+      "Omeprazole_5903",
+      "Losartan_219",
+      "Pantoprazole_3924"
+    ]
+  },
+  {
+    "name": "Influenza_342",
+    "symptoms": [
+      "back pain_1391",
+      "sneezing_733",
+      "low fever_1080",
+      "loss of appetite_1300",
+      "body pain_178",
+      "frequent urination_1075",
+      "fatigue_1076"
+    ],
+    "medicines": [
+      "Amlodipine_1501",
+      "Nitrofurantoin_400",
+      "Cetirizine_5293"
+    ]
+  },
+  {
+    "name": "Migraine_343",
+    "symptoms": [
+      "ear pain_453",
+      "shortness of breath_1481",
+      "dry cough_492"
+    ],
+    "medicines": [
+      "Azithromycin_594",
+      "Domperidone_2125",
+      "Metformin_1418"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_344",
+    "symptoms": [
+      "diarrhea_43",
+      "watery eyes_37",
+      "rash_1059"
+    ],
+    "medicines": [
+      "Metformin_3390",
+      "Pantoprazole_2096",
+      "Ondansetron_4474"
+    ]
+  },
+  {
+    "name": "Dermatitis_345",
+    "symptoms": [
+      "back pain_915",
+      "migraine_317",
+      "nausea_464"
+    ],
+    "medicines": [
+      "Doxycycline_1385",
+      "Diclofenac_2883",
+      "Montelukast_3072"
+    ]
+  },
+  {
+    "name": "Common Cold_346",
+    "symptoms": [
+      "watery eyes_107",
+      "dizziness_590",
+      "vomiting_850",
+      "itching_1217",
+      "runny nose_1010",
+      "shortness of breath_1397",
+      "fever_344"
+    ],
+    "medicines": [
+      "Losartan_1335",
+      "Domperidone_3523",
+      "Ondansetron_6000"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_347",
+    "symptoms": [
+      "body pain_551",
+      "chest pain_709",
+      "itching_1283"
+    ],
+    "medicines": [
+      "Paracetamol_3030",
+      "Ibuprofen_1074",
+      "Atorvastatin_3690"
+    ]
+  },
+  {
+    "name": "Arthritis_348",
+    "symptoms": [
+      "sneezing_1239",
+      "joint pain_463",
+      "burning urination_964"
+    ],
+    "medicines": [
+      "Atorvastatin_969",
+      "Cefixime_1746",
+      "Diclofenac_4497"
+    ]
+  },
+  {
+    "name": "Diabetes_349",
+    "symptoms": [
+      "burning urination_1461",
+      "abdominal pain_1209",
+      "body pain_564"
+    ],
+    "medicines": [
+      "Amlodipine_1558",
+      "Ibuprofen_5299",
+      "Atorvastatin_3743"
+    ]
+  },
+  {
+    "name": "Viral Fever_350",
+    "symptoms": [
+      "nausea_678",
+      "fever_580",
+      "nausea_1451",
+      "dry cough_1025",
+      "high fever_34",
+      "vomiting_117"
+    ],
+    "medicines": [
+      "Domperidone_1428",
+      "Doxycycline_3187",
+      "Cetirizine_4931"
+    ]
+  },
+  {
+    "name": "Tuberculosis_351",
+    "symptoms": [
+      "sore throat_1277",
+      "rash_352",
+      "dizziness_1035",
+      "body pain_574",
+      "headache_472"
+    ],
+    "medicines": [
+      "Nitrofurantoin_2379",
+      "Montelukast_4063",
+      "Diclofenac_5040"
+    ]
+  },
+  {
+    "name": "Common Cold_352",
+    "symptoms": [
+      "migraine_1270",
+      "nausea_1451",
+      "ear pain_1426"
+    ],
+    "medicines": [
+      "Losartan_4168",
+      "Salbutamol_2109",
+      "Losartan_303"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_353",
+    "symptoms": [
+      "body pain_685",
+      "rash_1328",
+      "headache_636",
+      "shortness of breath_555",
+      "migraine_61"
+    ],
+    "medicines": [
+      "Amlodipine_429",
+      "Amoxicillin_4776",
+      "Doxycycline_854"
+    ]
+  },
+  {
+    "name": "Viral Fever_354",
+    "symptoms": [
+      "sneezing_363",
+      "chest pain_193",
+      "fatigue_1134",
+      "fatigue_759",
+      "low fever_646",
+      "rash_1303"
+    ],
+    "medicines": [
+      "Salbutamol_1967",
+      "Diclofenac_2004",
+      "Paracetamol_3290"
+    ]
+  },
+  {
+    "name": "Malaria_355",
+    "symptoms": [
+      "nausea_537",
+      "itching_772",
+      "sore throat_694",
+      "fatigue_1351"
+    ],
+    "medicines": [
+      "Pantoprazole_5690",
+      "Losartan_3012",
+      "Metformin_3842"
+    ]
+  },
+  {
+    "name": "Influenza_356",
+    "symptoms": [
+      "dizziness_269",
+      "shortness of breath_54",
+      "watery eyes_1028"
+    ],
+    "medicines": [
+      "Montelukast_5444",
+      "Domperidone_5475",
+      "Ibuprofen_3464"
+    ]
+  },
+  {
+    "name": "Asthma_357",
+    "symptoms": [
+      "burning urination_74",
+      "chills_1015",
+      "sneezing_1440"
+    ],
+    "medicines": [
+      "Paracetamol_244",
+      "Diclofenac_1545",
+      "Metformin_2265"
+    ]
+  },
+  {
+    "name": "Sinusitis_358",
+    "symptoms": [
+      "ear pain_207",
+      "low fever_618",
+      "ear pain_591",
+      "shortness of breath_930",
+      "joint pain_1163",
+      "cough_827",
+      "headache_1413"
+    ],
+    "medicines": [
+      "Diclofenac_5129",
+      "Atorvastatin_1941",
+      "Losartan_2949"
+    ]
+  },
+  {
+    "name": "Food Poisoning_359",
+    "symptoms": [
+      "migraine_383",
+      "shortness of breath_1339",
+      "chest pain_1411",
+      "sneezing_1319"
+    ],
+    "medicines": [
+      "Azithromycin_5791",
+      "Doxycycline_4779",
+      "Cetirizine_1351"
+    ]
+  },
+  {
+    "name": "Viral Fever_360",
+    "symptoms": [
+      "itching_745",
+      "chills_615",
+      "sneezing_1439",
+      "wet cough_1408"
+    ],
+    "medicines": [
+      "Losartan_145",
+      "Amoxicillin_3684",
+      "Cefixime_762"
+    ]
+  },
+  {
+    "name": "Influenza_361",
+    "symptoms": [
+      "rash_355",
+      "fever_1437",
+      "dry cough_1107",
+      "watery eyes_598"
+    ],
+    "medicines": [
+      "Diclofenac_1430",
+      "Diclofenac_2428",
+      "Doxycycline_5228"
+    ]
+  },
+  {
+    "name": "Pneumonia_362",
+    "symptoms": [
+      "sneezing_1215",
+      "headache_288",
+      "low fever_554",
+      "chills_1020",
+      "chills_260",
+      "dizziness_708",
+      "back pain_206"
+    ],
+    "medicines": [
+      "Domperidone_4901",
+      "Montelukast_5448",
+      "Atorvastatin_1047"
+    ]
+  },
+  {
+    "name": "Hypertension_363",
+    "symptoms": [
+      "wet cough_1034",
+      "nausea_409",
+      "ear pain_1121",
+      "watery eyes_180"
+    ],
+    "medicines": [
+      "Levocetirizine_2622",
+      "Atorvastatin_3984",
+      "Salbutamol_3793"
+    ]
+  },
+  {
+    "name": "Bronchitis_364",
+    "symptoms": [
+      "muscle pain_101",
+      "back pain_859",
+      "ear pain_453",
+      "fever_64",
+      "sneezing_1237",
+      "burning urination_840"
+    ],
+    "medicines": [
+      "Omeprazole_1719",
+      "Metformin_189",
+      "Ibuprofen_291"
+    ]
+  },
+  {
+    "name": "Viral Fever_365",
+    "symptoms": [
+      "nausea_811",
+      "sneezing_970",
+      "rash_866"
+    ],
+    "medicines": [
+      "Atorvastatin_5857",
+      "Amoxicillin_618",
+      "Paracetamol_3030"
+    ]
+  },
+  {
+    "name": "Asthma_366",
+    "symptoms": [
+      "watery eyes_994",
+      "high fever_567",
+      "itching_932"
+    ],
+    "medicines": [
+      "Doxycycline_1334",
+      "Nitrofurantoin_3978",
+      "Amlodipine_5771"
+    ]
+  },
+  {
+    "name": "Typhoid_367",
+    "symptoms": [
+      "wet cough_448",
+      "burning urination_786",
+      "dry cough_813",
+      "runny nose_902",
+      "frequent urination_292",
+      "ear pain_1378",
+      "nausea_1008"
+    ],
+    "medicines": [
+      "Domperidone_5896",
+      "Paracetamol_1823",
+      "Pantoprazole_3056"
+    ]
+  },
+  {
+    "name": "Tuberculosis_368",
+    "symptoms": [
+      "burning urination_354",
+      "migraine_1030",
+      "dry cough_456",
+      "chest pain_597"
+    ],
+    "medicines": [
+      "Diclofenac_4491",
+      "Cefixime_1830",
+      "Pantoprazole_2747"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_369",
+    "symptoms": [
+      "frequent urination_1136",
+      "ear pain_1378",
+      "burning urination_986",
+      "joint pain_154",
+      "wet cough_85"
+    ],
+    "medicines": [
+      "Paracetamol_1069",
+      "Pantoprazole_3294",
+      "Amlodipine_1523"
+    ]
+  },
+  {
+    "name": "Pneumonia_370",
+    "symptoms": [
+      "body pain_625",
+      "dry cough_312",
+      "sore throat_73"
+    ],
+    "medicines": [
+      "Levocetirizine_5647",
+      "Losartan_1167",
+      "Montelukast_2467"
+    ]
+  },
+  {
+    "name": "Hypertension_371",
+    "symptoms": [
+      "sore throat_109",
+      "back pain_249",
+      "burning urination_1189",
+      "muscle pain_216",
+      "fatigue_743",
+      "shortness of breath_259"
+    ],
+    "medicines": [
+      "Azithromycin_5421",
+      "Omeprazole_30",
+      "Cetirizine_5028"
+    ]
+  },
+  {
+    "name": "Arthritis_372",
+    "symptoms": [
+      "shortness of breath_660",
+      "itching_745",
+      "back pain_246",
+      "rash_926"
+    ],
+    "medicines": [
+      "Paracetamol_2879",
+      "Cefixime_3337",
+      "Metformin_1182"
+    ]
+  },
+  {
+    "name": "Common Cold_373",
+    "symptoms": [
+      "frequent urination_237",
+      "itching_1203",
+      "ear pain_203",
+      "rash_224",
+      "back pain_1073",
+      "nausea_1312",
+      "migraine_382"
+    ],
+    "medicines": [
+      "Atorvastatin_686",
+      "Paracetamol_5204",
+      "Metformin_3202"
+    ]
+  },
+  {
+    "name": "Typhoid_374",
+    "symptoms": [
+      "shortness of breath_539",
+      "dizziness_498",
+      "low fever_921",
+      "loss of appetite_1104"
+    ],
+    "medicines": [
+      "Losartan_995",
+      "Doxycycline_5001",
+      "Metformin_559"
+    ]
+  },
+  {
+    "name": "Common Cold_375",
+    "symptoms": [
+      "fatigue_1220",
+      "ear pain_981",
+      "back pain_1202",
+      "shortness of breath_1148",
+      "abdominal pain_1292",
+      "dry cough_510"
+    ],
+    "medicines": [
+      "Nitrofurantoin_5887",
+      "Cetirizine_1216",
+      "Amlodipine_1271"
+    ]
+  },
+  {
+    "name": "Typhoid_376",
+    "symptoms": [
+      "loss of appetite_268",
+      "fatigue_505",
+      "joint pain_1091"
+    ],
+    "medicines": [
+      "Cefixime_123",
+      "Ondansetron_4636",
+      "Salbutamol_5973"
+    ]
+  },
+  {
+    "name": "Influenza_377",
+    "symptoms": [
+      "chest pain_185",
+      "shortness of breath_660",
+      "fatigue_743",
+      "rash_167",
+      "fever_1443",
+      "high fever_701"
+    ],
+    "medicines": [
+      "Ondansetron_1273",
+      "Levocetirizine_98",
+      "Domperidone_310"
+    ]
+  },
+  {
+    "name": "Common Cold_378",
+    "symptoms": [
+      "muscle pain_1433",
+      "dizziness_328",
+      "chills_810",
+      "watery eyes_1388",
+      "chills_991"
+    ],
+    "medicines": [
+      "Diclofenac_5947",
+      "Losartan_2854",
+      "Diclofenac_5378"
+    ]
+  },
+  {
+    "name": "Viral Fever_379",
+    "symptoms": [
+      "burning urination_864",
+      "migraine_826",
+      "fatigue_1061",
+      "high fever_854",
+      "ear pain_262"
+    ],
+    "medicines": [
+      "Paracetamol_3148",
+      "Cetirizine_3307",
+      "Amlodipine_2060"
+    ]
+  },
+  {
+    "name": "Migraine_380",
+    "symptoms": [
+      "abdominal pain_430",
+      "chills_481",
+      "dizziness_229",
+      "watery eyes_805",
+      "dizziness_584",
+      "low fever_760"
+    ],
+    "medicines": [
+      "Nitrofurantoin_3773",
+      "Metformin_4189",
+      "Diclofenac_1064"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_381",
+    "symptoms": [
+      "shortness of breath_54",
+      "itching_1217",
+      "low fever_1049",
+      "ear pain_1466",
+      "sneezing_1434",
+      "headache_59",
+      "wet cough_831"
+    ],
+    "medicines": [
+      "Azithromycin_2061",
+      "Omeprazole_315",
+      "Domperidone_3726"
+    ]
+  },
+  {
+    "name": "Migraine_382",
+    "symptoms": [
+      "watery eyes_1028",
+      "runny nose_78",
+      "fever_475",
+      "runny nose_1010",
+      "diarrhea_96"
+    ],
+    "medicines": [
+      "Pantoprazole_5069",
+      "Cefixime_2037",
+      "Cetirizine_4553"
+    ]
+  },
+  {
+    "name": "Food Poisoning_383",
+    "symptoms": [
+      "watery eyes_1348",
+      "itching_137",
+      "fatigue_946",
+      "rash_476",
+      "watery eyes_384",
+      "diarrhea_583",
+      "dry cough_1211"
+    ],
+    "medicines": [
+      "Cetirizine_3355",
+      "Losartan_4356",
+      "Montelukast_4238"
+    ]
+  },
+  {
+    "name": "Diabetes_384",
+    "symptoms": [
+      "shortness of breath_88",
+      "joint pain_1130",
+      "loss of appetite_791",
+      "cough_973",
+      "migraine_290"
+    ],
+    "medicines": [
+      "Domperidone_3386",
+      "Amoxicillin_1845",
+      "Atorvastatin_3833"
+    ]
+  },
+  {
+    "name": "Viral Fever_385",
+    "symptoms": [
+      "rash_682",
+      "rash_1199",
+      "nausea_100",
+      "headache_331",
+      "rash_509",
+      "abdominal pain_161"
+    ],
+    "medicines": [
+      "Ibuprofen_4919",
+      "Metformin_2870",
+      "Metformin_4029"
+    ]
+  },
+  {
+    "name": "Dermatitis_386",
+    "symptoms": [
+      "runny nose_530",
+      "fever_1228",
+      "back pain_562",
+      "low fever_1284",
+      "vomiting_1181",
+      "wet cough_642"
+    ],
+    "medicines": [
+      "Omeprazole_423",
+      "Cefixime_74",
+      "Amlodipine_5220"
+    ]
+  },
+  {
+    "name": "Hypertension_387",
+    "symptoms": [
+      "chills_1469",
+      "back pain_915",
+      "body pain_460",
+      "abdominal pain_139",
+      "diarrhea_583"
+    ],
+    "medicines": [
+      "Doxycycline_452",
+      "Cefixime_549",
+      "Losartan_187"
+    ]
+  },
+  {
+    "name": "Tuberculosis_388",
+    "symptoms": [
+      "nausea_1312",
+      "fever_197",
+      "nausea_1090",
+      "itching_533",
+      "muscle pain_914",
+      "fatigue_818"
+    ],
+    "medicines": [
+      "Cefixime_4062",
+      "Diclofenac_3553",
+      "Omeprazole_1203"
+    ]
+  },
+  {
+    "name": "Food Poisoning_389",
+    "symptoms": [
+      "itching_334",
+      "chest pain_1109",
+      "chills_851",
+      "runny nose_672",
+      "sore throat_1344",
+      "shortness of breath_88"
+    ],
+    "medicines": [
+      "Pantoprazole_1065",
+      "Cefixime_867",
+      "Losartan_2256"
+    ]
+  },
+  {
+    "name": "Allergic Rhinitis_390",
+    "symptoms": [
+      "shortness of breath_1453",
+      "fatigue_818",
+      "sneezing_1342",
+      "high fever_205",
+      "nausea_478"
+    ],
+    "medicines": [
+      "Levocetirizine_381",
+      "Amlodipine_3641",
+      "Paracetamol_290"
+    ]
+  },
+  {
+    "name": "Diabetes_391",
+    "symptoms": [
+      "joint pain_323",
+      "high fever_168",
+      "body pain_779",
+      "wet cough_592",
+      "body pain_1092",
+      "vomiting_1478"
+    ],
+    "medicines": [
+      "Omeprazole_4107",
+      "Losartan_857",
+      "Domperidone_4913"
+    ]
+  },
+  {
+    "name": "Sinusitis_392",
+    "symptoms": [
+      "burning urination_491",
+      "nausea_89",
+      "high fever_1307",
+      "chills_1186",
+      "cough_1428",
+      "high fever_747",
+      "back pain_602"
+    ],
+    "medicines": [
+      "Salbutamol_3237",
+      "Domperidone_427",
+      "Cetirizine_5491"
+    ]
+  },
+  {
+    "name": "Influenza_393",
+    "symptoms": [
+      "itching_405",
+      "body pain_1159",
+      "migraine_382"
+    ],
+    "medicines": [
+      "Atorvastatin_5862",
+      "Metformin_5739",
+      "Nitrofurantoin_1774"
+    ]
+  },
+  {
+    "name": "Pneumonia_394",
+    "symptoms": [
+      "sneezing_1274",
+      "vomiting_321",
+      "vomiting_623",
+      "joint pain_1165",
+      "ear pain_1466"
+    ],
+    "medicines": [
+      "Salbutamol_4025",
+      "Doxycycline_5365",
+      "Salbutamol_5325"
+    ]
+  },
+  {
+    "name": "Migraine_395",
+    "symptoms": [
+      "ear pain_661",
+      "rash_352",
+      "itching_1269"
+    ],
+    "medicines": [
+      "Omeprazole_2190",
+      "Azithromycin_5145",
+      "Losartan_3181"
+    ]
+  },
+  {
+    "name": "Sinusitis_396",
+    "symptoms": [
+      "burning urination_1189",
+      "fatigue_1171",
+      "frequent urination_1040",
+      "joint pain_520"
+    ],
+    "medicines": [
+      "Cetirizine_2020",
+      "Domperidone_2570",
+      "Omeprazole_3001"
+    ]
+  },
+  {
+    "name": "Conjunctivitis_397",
+    "symptoms": [
+      "runny nose_530",
+      "itching_1278",
+      "migraine_880",
+      "itching_137",
+      "sneezing_55"
+    ],
+    "medicines": [
+      "Omeprazole_2819",
+      "Omeprazole_2406",
+      "Amlodipine_3931"
+    ]
+  },
+  {
+    "name": "Hypertension_398",
+    "symptoms": [
+      "migraine_905",
+      "runny nose_627",
+      "ear pain_962"
+    ],
+    "medicines": [
+      "Montelukast_5706",
+      "Ibuprofen_2117",
+      "Losartan_3110"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_399",
+    "symptoms": [
+      "migraine_446",
+      "joint pain_1310",
+      "headache_126",
+      "nausea_395",
+      "burning urination_7",
+      "diarrhea_1297",
+      "muscle pain_465"
+    ],
+    "medicines": [
+      "Doxycycline_2097",
+      "Losartan_5817",
+      "Amlodipine_5165"
+    ]
+  },
+  {
+    "name": "Urinary Tract Infection_400",
+    "symptoms": [
+      "cough_38",
+      "chest pain_718",
+      "nausea_1430"
+    ],
+    "medicines": [
+      "Montelukast_462",
+      "Paracetamol_1936",
+      "Ondansetron_5768"
+    ]
+  }
+]

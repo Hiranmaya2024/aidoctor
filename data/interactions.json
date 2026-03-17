@@ -1,0 +1,1502 @@
+[
+  {
+    "a": "Cetirizine_5397",
+    "b": "Atorvastatin_1929",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_138",
+    "b": "Omeprazole_2574",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_1369",
+    "b": "Levocetirizine_4518",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_4604",
+    "b": "Salbutamol_3139",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_1300",
+    "b": "Atorvastatin_2328",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_3885",
+    "b": "Azithromycin_623",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_1669",
+    "b": "Pantoprazole_756",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_4537",
+    "b": "Metformin_3662",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_5619",
+    "b": "Amoxicillin_578",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_3772",
+    "b": "Pantoprazole_4220",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_5288",
+    "b": "Ondansetron_875",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_236",
+    "b": "Doxycycline_1256",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_1918",
+    "b": "Metformin_3508",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_1101",
+    "b": "Metformin_3191",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_3018",
+    "b": "Cefixime_2204",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_751",
+    "b": "Domperidone_3946",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_5029",
+    "b": "Atorvastatin_4948",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_3368",
+    "b": "Metformin_4108",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_1150",
+    "b": "Doxycycline_3115",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_546",
+    "b": "Amoxicillin_591",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_4982",
+    "b": "Nitrofurantoin_3528",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_1860",
+    "b": "Ondansetron_5392",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_1196",
+    "b": "Domperidone_3111",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_1742",
+    "b": "Cefixime_2206",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_4380",
+    "b": "Ibuprofen_927",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_4005",
+    "b": "Paracetamol_5677",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_4081",
+    "b": "Levocetirizine_5251",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_844",
+    "b": "Ibuprofen_475",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_212",
+    "b": "Amoxicillin_4846",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_3969",
+    "b": "Azithromycin_4884",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_47",
+    "b": "Domperidone_3518",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_3892",
+    "b": "Montelukast_3460",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_5021",
+    "b": "Pantoprazole_5898",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_4002",
+    "b": "Azithromycin_1407",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_5335",
+    "b": "Atorvastatin_2401",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_5841",
+    "b": "Amlodipine_4395",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_4984",
+    "b": "Salbutamol_5348",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_4668",
+    "b": "Losartan_4744",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_4311",
+    "b": "Cetirizine_3244",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_3037",
+    "b": "Azithromycin_1070",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_4881",
+    "b": "Azithromycin_15",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_1852",
+    "b": "Amoxicillin_1926",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_4670",
+    "b": "Ondansetron_778",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_1758",
+    "b": "Domperidone_5671",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_5738",
+    "b": "Azithromycin_848",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_895",
+    "b": "Ibuprofen_3464",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_3064",
+    "b": "Ondansetron_2102",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_4655",
+    "b": "Pantoprazole_2373",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_2228",
+    "b": "Nitrofurantoin_1546",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_2769",
+    "b": "Metformin_3853",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_3527",
+    "b": "Ibuprofen_3618",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_2831",
+    "b": "Cefixime_2720",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_416",
+    "b": "Paracetamol_3215",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_2290",
+    "b": "Cetirizine_4571",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_3609",
+    "b": "Amlodipine_3278",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_2208",
+    "b": "Losartan_651",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_5899",
+    "b": "Montelukast_4398",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_5708",
+    "b": "Nitrofurantoin_4481",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_242",
+    "b": "Metformin_137",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_3128",
+    "b": "Cetirizine_3279",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_742",
+    "b": "Levocetirizine_1980",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_4799",
+    "b": "Nitrofurantoin_4361",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_4899",
+    "b": "Metformin_5188",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_1780",
+    "b": "Paracetamol_1660",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_3905",
+    "b": "Domperidone_573",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_973",
+    "b": "Ibuprofen_3605",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_837",
+    "b": "Cefixime_5344",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_859",
+    "b": "Ibuprofen_736",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_1299",
+    "b": "Azithromycin_5526",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_4177",
+    "b": "Ondansetron_4675",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_3840",
+    "b": "Nitrofurantoin_949",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_4286",
+    "b": "Doxycycline_2086",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_1332",
+    "b": "Doxycycline_1587",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_3354",
+    "b": "Diclofenac_5680",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_5524",
+    "b": "Cetirizine_3231",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_2410",
+    "b": "Azithromycin_4592",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_4332",
+    "b": "Nitrofurantoin_4628",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_3350",
+    "b": "Metformin_906",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_1819",
+    "b": "Amoxicillin_2822",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_5669",
+    "b": "Domperidone_5154",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_2165",
+    "b": "Levocetirizine_620",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_1575",
+    "b": "Pantoprazole_5637",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_5224",
+    "b": "Cetirizine_3143",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_5696",
+    "b": "Losartan_1487",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_2753",
+    "b": "Ibuprofen_4516",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_225",
+    "b": "Paracetamol_3599",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_2229",
+    "b": "Cefixime_3826",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_1994",
+    "b": "Losartan_5446",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_4661",
+    "b": "Pantoprazole_2351",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_2308",
+    "b": "Atorvastatin_165",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_2064",
+    "b": "Salbutamol_1257",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_2177",
+    "b": "Salbutamol_486",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_822",
+    "b": "Losartan_2006",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_4133",
+    "b": "Salbutamol_453",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_522",
+    "b": "Cefixime_5692",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_308",
+    "b": "Ibuprofen_5505",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_4228",
+    "b": "Cetirizine_978",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_1833",
+    "b": "Nitrofurantoin_2845",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_1416",
+    "b": "Doxycycline_2228",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_2769",
+    "b": "Diclofenac_611",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_528",
+    "b": "Pantoprazole_1859",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_957",
+    "b": "Omeprazole_2205",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_4786",
+    "b": "Metformin_1723",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_3700",
+    "b": "Ibuprofen_5118",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_5806",
+    "b": "Amlodipine_1882",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_2041",
+    "b": "Cefixime_5215",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_3658",
+    "b": "Ondansetron_4868",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_3284",
+    "b": "Losartan_4438",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_969",
+    "b": "Domperidone_179",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_2442",
+    "b": "Cefixime_2720",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_1066",
+    "b": "Omeprazole_2115",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_5553",
+    "b": "Nitrofurantoin_754",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_4901",
+    "b": "Losartan_4627",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_2000",
+    "b": "Azithromycin_139",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_1958",
+    "b": "Pantoprazole_3567",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_1925",
+    "b": "Amoxicillin_4501",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_1907",
+    "b": "Cefixime_1591",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_5970",
+    "b": "Montelukast_2295",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_5578",
+    "b": "Cetirizine_978",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_355",
+    "b": "Cetirizine_3063",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_818",
+    "b": "Diclofenac_3402",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_5134",
+    "b": "Paracetamol_792",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_3220",
+    "b": "Pantoprazole_5039",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_2031",
+    "b": "Salbutamol_5024",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_5370",
+    "b": "Paracetamol_5315",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_1102",
+    "b": "Metformin_5214",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_4332",
+    "b": "Losartan_5243",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_4364",
+    "b": "Diclofenac_1036",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_2772",
+    "b": "Metformin_908",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_1227",
+    "b": "Diclofenac_2090",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_2049",
+    "b": "Omeprazole_715",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_3228",
+    "b": "Levocetirizine_2301",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_5579",
+    "b": "Azithromycin_4308",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_354",
+    "b": "Paracetamol_1757",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_1780",
+    "b": "Azithromycin_629",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_3516",
+    "b": "Pantoprazole_3891",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_5825",
+    "b": "Omeprazole_1184",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_3200",
+    "b": "Pantoprazole_3545",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_3151",
+    "b": "Doxycycline_5211",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_328",
+    "b": "Amlodipine_124",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_2518",
+    "b": "Ondansetron_3275",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_441",
+    "b": "Ibuprofen_2207",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_663",
+    "b": "Omeprazole_4260",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_5918",
+    "b": "Pantoprazole_5993",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_4890",
+    "b": "Diclofenac_2885",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_3134",
+    "b": "Atorvastatin_157",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_2217",
+    "b": "Azithromycin_2631",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_1930",
+    "b": "Amoxicillin_2974",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_851",
+    "b": "Omeprazole_5789",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_1855",
+    "b": "Cetirizine_540",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_3669",
+    "b": "Cetirizine_2823",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_625",
+    "b": "Amlodipine_1381",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_4159",
+    "b": "Nitrofurantoin_2709",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_1698",
+    "b": "Cetirizine_2642",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_5745",
+    "b": "Ondansetron_2659",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_639",
+    "b": "Atorvastatin_5131",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_998",
+    "b": "Paracetamol_3401",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_4298",
+    "b": "Pantoprazole_3439",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_2288",
+    "b": "Ondansetron_2938",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_972",
+    "b": "Omeprazole_5831",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_3251",
+    "b": "Cetirizine_1308",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_3039",
+    "b": "Azithromycin_4039",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_3536",
+    "b": "Diclofenac_3446",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_3827",
+    "b": "Cefixime_2457",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_628",
+    "b": "Atorvastatin_3733",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_1843",
+    "b": "Cetirizine_616",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_4615",
+    "b": "Doxycycline_263",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_1318",
+    "b": "Azithromycin_2421",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_917",
+    "b": "Cefixime_5077",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_3834",
+    "b": "Losartan_3200",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_1478",
+    "b": "Azithromycin_2247",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_5160",
+    "b": "Pantoprazole_5470",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_3622",
+    "b": "Omeprazole_5388",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_1713",
+    "b": "Domperidone_317",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_5575",
+    "b": "Cefixime_101",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_5570",
+    "b": "Metformin_5214",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_3589",
+    "b": "Levocetirizine_1444",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_3164",
+    "b": "Domperidone_3351",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_2346",
+    "b": "Cefixime_48",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_4159",
+    "b": "Montelukast_2108",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_4102",
+    "b": "Ondansetron_6",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_2125",
+    "b": "Montelukast_5434",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_2102",
+    "b": "Cefixime_4087",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_5364",
+    "b": "Cefixime_607",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_281",
+    "b": "Salbutamol_1079",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_4335",
+    "b": "Montelukast_693",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_4435",
+    "b": "Cefixime_4606",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_3032",
+    "b": "Azithromycin_3285",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_1420",
+    "b": "Azithromycin_5980",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_3132",
+    "b": "Diclofenac_5040",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_652",
+    "b": "Azithromycin_4556",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_5107",
+    "b": "Nitrofurantoin_3136",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_3121",
+    "b": "Amoxicillin_329",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_5645",
+    "b": "Domperidone_1189",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_1963",
+    "b": "Ondansetron_3534",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_5590",
+    "b": "Cetirizine_2971",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_2922",
+    "b": "Doxycycline_1555",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_770",
+    "b": "Levocetirizine_312",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_5335",
+    "b": "Pantoprazole_4053",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_2458",
+    "b": "Amlodipine_5688",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_3631",
+    "b": "Metformin_1180",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_989",
+    "b": "Amoxicillin_605",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_1090",
+    "b": "Ondansetron_3105",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_4423",
+    "b": "Metformin_63",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_5741",
+    "b": "Diclofenac_84",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_2282",
+    "b": "Atorvastatin_5715",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_5484",
+    "b": "Ibuprofen_3454",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_3505",
+    "b": "Ibuprofen_4988",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_1477",
+    "b": "Omeprazole_1204",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_2810",
+    "b": "Ibuprofen_364",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_4434",
+    "b": "Pantoprazole_5936",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_94",
+    "b": "Cetirizine_419",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_372",
+    "b": "Salbutamol_1257",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_1733",
+    "b": "Cetirizine_2107",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_290",
+    "b": "Azithromycin_808",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_5111",
+    "b": "Salbutamol_4704",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_5647",
+    "b": "Cefixime_3704",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_591",
+    "b": "Losartan_2735",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_2641",
+    "b": "Doxycycline_5884",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_1828",
+    "b": "Metformin_2193",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_1195",
+    "b": "Levocetirizine_2497",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_2184",
+    "b": "Amoxicillin_4955",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_5996",
+    "b": "Cefixime_2276",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_583",
+    "b": "Salbutamol_4698",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_2815",
+    "b": "Ondansetron_666",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_222",
+    "b": "Ibuprofen_4499",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_2306",
+    "b": "Cetirizine_2160",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_5239",
+    "b": "Omeprazole_5388",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_1881",
+    "b": "Domperidone_4874",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amlodipine_1404",
+    "b": "Domperidone_4802",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_1374",
+    "b": "Amlodipine_4395",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_5382",
+    "b": "Omeprazole_1719",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_2715",
+    "b": "Losartan_4642",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_1785",
+    "b": "Cetirizine_3312",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_740",
+    "b": "Azithromycin_1922",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_3792",
+    "b": "Ibuprofen_3514",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_4016",
+    "b": "Domperidone_3950",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_3839",
+    "b": "Montelukast_5117",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_5751",
+    "b": "Levocetirizine_3667",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_1751",
+    "b": "Amlodipine_1071",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_774",
+    "b": "Amoxicillin_5906",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_22",
+    "b": "Doxycycline_342",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_1351",
+    "b": "Cefixime_2964",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_3749",
+    "b": "Diclofenac_372",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_328",
+    "b": "Ondansetron_266",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Diclofenac_576",
+    "b": "Azithromycin_782",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_1764",
+    "b": "Pantoprazole_5936",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_4357",
+    "b": "Cetirizine_2676",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_1178",
+    "b": "Omeprazole_1356",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_5532",
+    "b": "Azithromycin_1362",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_2460",
+    "b": "Omeprazole_4260",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_5793",
+    "b": "Atorvastatin_2866",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_1826",
+    "b": "Diclofenac_403",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_4425",
+    "b": "Ibuprofen_4956",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_4065",
+    "b": "Amoxicillin_783",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_1439",
+    "b": "Levocetirizine_2232",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_1758",
+    "b": "Pantoprazole_5386",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_1704",
+    "b": "Ibuprofen_4267",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_487",
+    "b": "Amoxicillin_1228",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Paracetamol_5373",
+    "b": "Cetirizine_4181",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_5932",
+    "b": "Pantoprazole_1309",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_3850",
+    "b": "Doxycycline_532",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_4825",
+    "b": "Pantoprazole_1836",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_3100",
+    "b": "Levocetirizine_1677",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cefixime_4746",
+    "b": "Amoxicillin_4477",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_6000",
+    "b": "Cetirizine_3429",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_5337",
+    "b": "Doxycycline_5161",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_3313",
+    "b": "Domperidone_427",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_2872",
+    "b": "Salbutamol_2627",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_4335",
+    "b": "Cetirizine_203",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_2228",
+    "b": "Pantoprazole_2221",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_4279",
+    "b": "Paracetamol_1468",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_1186",
+    "b": "Ondansetron_2288",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Salbutamol_4341",
+    "b": "Losartan_4245",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_1344",
+    "b": "Ondansetron_4288",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Domperidone_3523",
+    "b": "Salbutamol_3075",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_43",
+    "b": "Pantoprazole_3933",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Atorvastatin_5557",
+    "b": "Ondansetron_4396",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Amoxicillin_1360",
+    "b": "Doxycycline_4705",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_2997",
+    "b": "Metformin_1868",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_255",
+    "b": "Nitrofurantoin_4552",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Pantoprazole_3844",
+    "b": "Amoxicillin_204",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_2208",
+    "b": "Montelukast_951",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_1460",
+    "b": "Atorvastatin_341",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Nitrofurantoin_2764",
+    "b": "Nitrofurantoin_5170",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Metformin_3406",
+    "b": "Cetirizine_871",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ondansetron_5374",
+    "b": "Amoxicillin_2384",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Losartan_2056",
+    "b": "Metformin_965",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_5926",
+    "b": "Ondansetron_3356",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_3389",
+    "b": "Diclofenac_1778",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Ibuprofen_2302",
+    "b": "Azithromycin_1129",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Omeprazole_85",
+    "b": "Azithromycin_2628",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Azithromycin_1800",
+    "b": "Ondansetron_2102",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_4671",
+    "b": "Cetirizine_1506",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_4405",
+    "b": "Domperidone_3579",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_620",
+    "b": "Salbutamol_1438",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Levocetirizine_872",
+    "b": "Cetirizine_2576",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Doxycycline_2098",
+    "b": "Atorvastatin_4222",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Montelukast_3771",
+    "b": "Amoxicillin_2614",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  },
+  {
+    "a": "Cetirizine_4895",
+    "b": "Amlodipine_5545",
+    "warning": "Potential interaction \u2013 consult doctor or pharmacist"
+  }
+]
