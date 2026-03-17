@@ -3,14 +3,14 @@ let diseases=[]
 let medicines=[]
 let interactions=[]
 
-let detectedSymptoms=[]
-
 async function loadData(){
 
-symptoms = await fetch("data/symptoms.json").then(r=>r.json())
-diseases = await fetch("data/diseases.json").then(r=>r.json())
-medicines = await fetch("data/medicines.json").then(r=>r.json())
-interactions = await fetch("data/interactions.json").then(r=>r.json())
+symptoms = await fetch("./data/symptoms.json").then(r=>r.json())
+diseases = await fetch("./data/diseases.json").then(r=>r.json())
+medicines = await fetch("./data/medicines.json").then(r=>r.json())
+interactions = await fetch("./data/interactions.json").then(r=>r.json())
+
+console.log("Data loaded")
 
 }
 
